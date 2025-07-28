@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "evt_SO_Disappear",
+      "type": "Event",
+      "description": "Smaller oases disappear due to abandonment or water diversion."
+    },
+    {
+      "id": "niche_ERC",
+      "type": "Niche",
+      "description": "Ecosystem Restoration Communities (community-led initiatives focus on actively restoring degraded ecosystems, promoting alternative practices of land stewardship and ecological health)"
+    },
+    {
+      "id": "TO.02",
+      "type": "TO",
+      "description": "Learning"
+    },
+    {
+      "id": "2003",
+      "type": "Year",
+      "description": "2003"
+    },
+    {
+      "id": "evt_CO_Urban",
+      "type": "Event",
+      "description": "Coastal oases in BCS urbanize with agroindustry and foreign retirees."
+    },
+    {
+      "id": "TO.14",
+      "type": "TO",
+      "description": "Anticipate and mitigate side effects / rebound effects"
+    },
+    {
+      "id": "niche_STS_CDPP",
+      "type": "Niche",
+      "description": "The systematic technical studies (new, evidence-based approach to understanding and planning for the region's environmental and socio-economic dynamics)"
+    },
+    {
+      "id": "evt_SEMARNAT_Oasis",
+      "type": "Event",
+      "description": "SEMARNAT analyzes oasis ecosystems in PBC."
+    },
+    {
+      "id": "niche_HOISRP",
+      "type": "Niche",
+      "description": "Historical Oasis and Irrigation Systems (Ranchero Production) (historical form of production fostered a culture of self-sufficiency and small, integrated communities)"
+    },
+    {
+      "id": "niche_ITA_WR",
+      "type": "Niche",
+      "description": "Instituto de Tierras Áridas (Work/Research) (institute's work on arid land management likely involves research and practical applications of sustainable techniques tailored to the region's specific environmental challenges)"
+    },
+    {
+      "id": "evt_SEMARNATReorgLGEEPA",
+      "type": "Event",
+      "description": "SEMARNAT reorganizes, oversees env. zoning; LGEEPA regulation published."
+    }
+  ],
+  "edges": [
+    {
+      "from": "evt_SO_Disappear",
+      "to": "niche_HOISRP",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SO_Disappear",
+      "to": "niche_ERC",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SO_Disappear",
+      "to": "niche_ITA_WR",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SO_Disappear",
+      "to": "evt_CO_Urban",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_SO_Disappear",
+      "to": "evt_SEMARNAT_Oasis",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "niche_ERC",
+      "to": "niche_ITA_WR",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "evt_CO_Urban",
+      "to": "niche_HOISRP",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CO_Urban",
+      "to": "niche_ITA_WR",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CO_Urban",
+      "to": "evt_SO_Disappear",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_CO_Urban",
+      "to": "evt_SEMARNAT_Oasis",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "2003",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "TO.02",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "TO.14",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "niche_STS_CDPP",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "niche_ITA_WR",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "niche_HOISRP",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "niche_ERC",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "evt_SEMARNATReorgLGEEPA",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "evt_CO_Urban",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_SEMARNAT_Oasis",
+      "to": "evt_SO_Disappear",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_SEMARNATReorgLGEEPA",
+      "to": "evt_SEMARNAT_Oasis",
+      "relationship_type": "connected_to"
+    }
+  ]
+}

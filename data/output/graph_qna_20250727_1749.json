@@ -1,0 +1,1646 @@
+{
+  "nodes": [
+    {
+      "id": "evt_CRDDR",
+      "type": "Event",
+      "description": "Colorado River Delta declared fishing reserve."
+    },
+    {
+      "id": "1974",
+      "type": "Year",
+      "description": "1974"
+    },
+    {
+      "id": "evt_GTFP",
+      "type": "Event",
+      "description": "Gillnets for totoaba fishing prohibited."
+    },
+    {
+      "id": "1975",
+      "type": "Year",
+      "description": "1975"
+    },
+    {
+      "id": "evt_IUCNTE",
+      "type": "Event",
+      "description": "IUCN lists totoaba as endangered species."
+    },
+    {
+      "id": "1979",
+      "type": "Year",
+      "description": "1979"
+    },
+    {
+      "id": "evt_GCDF",
+      "type": "Event",
+      "description": "Glen Canyon Dam filled, reducing river flow."
+    },
+    {
+      "id": "evt_TSFI",
+      "type": "Event",
+      "description": "Trawl shrimp fleet in AGC increases due to National Fisheries Development Plan."
+    },
+    {
+      "id": "1980",
+      "type": "Year",
+      "description": "1980"
+    },
+    {
+      "id": "evt_GCIFPS",
+      "type": "Event",
+      "description": "Gulf of California islands granted federal protected status."
+    },
+    {
+      "id": "1978",
+      "type": "Year",
+      "description": "1978"
+    },
+    {
+      "id": "evt_SFTFB",
+      "type": "Event",
+      "description": "Secretariat of Fisheries issues total experimental fishing ban."
+    },
+    {
+      "id": "1971",
+      "type": "Year",
+      "description": "1971"
+    },
+    {
+      "id": "evt_FGBIC",
+      "type": "Event",
+      "description": "Franchises granted during fishing ban to control illegal capture."
+    },
+    {
+      "id": "evt_CTEVDNPA",
+      "type": "Event",
+      "description": "Campamento Tortuguero El Verde declared Natural Protected Area."
+    },
+    {
+      "id": "1977",
+      "type": "Year",
+      "description": "1977"
+    },
+    {
+      "id": "evt_CRIPBRTC",
+      "type": "Event",
+      "description": "Research and rehabilitation tanks constructed at CRIP-Bahía de Los Ángeles."
+    },
+    {
+      "id": "evt_IUCNLVQ",
+      "type": "Event",
+      "description": "IUCN listed the vaquita as vulnerable on the Red List of Threatened Species."
+    },
+    {
+      "id": "1986",
+      "type": "Year",
+      "description": "1986"
+    },
+    {
+      "id": "evt_IHHNVMX",
+      "type": "Event",
+      "description": "Infectious Hypodermal and Hematopoietic Necrosis Virus (IHHNV) first introduced to Mexico."
+    },
+    {
+      "id": "1987",
+      "type": "Year",
+      "description": "1987"
+    },
+    {
+      "id": "evt_SKBRWHS",
+      "type": "Event",
+      "description": "Sian Ka’an Biosphere Reserve declared World Heritage Site."
+    },
+    {
+      "id": "evt_FMRFSD",
+      "type": "Event",
+      "description": "Restructuring of federal ministries leads to decline of fishing sector."
+    },
+    {
+      "id": "1988",
+      "type": "Year",
+      "description": "1988"
+    },
+    {
+      "id": "evt_CRDFR",
+      "type": "Event",
+      "description": "River flow restrictions to the Colorado River delta begin."
+    },
+    {
+      "id": "1989",
+      "type": "Year",
+      "description": "1989"
+    },
+    {
+      "id": "evt_SCSFLII",
+      "type": "Event",
+      "description": "All shrimp farms and laboratories on Sonora coast infected with IHHNV."
+    },
+    {
+      "id": "1990",
+      "type": "Year",
+      "description": "1990"
+    },
+    {
+      "id": "evt_LSCAFD",
+      "type": "Event",
+      "description": "Lowest shrimp capture in AGC fishery recorded, coinciding with primary organic productivity decrease."
+    },
+    {
+      "id": "evt_OWBCSS",
+      "type": "Event",
+      "description": "Number of overexploited wells in Baja California Sur increases to over 580, with 78% saline."
+    },
+    {
+      "id": "evt_CPNPEBUI",
+      "type": "Event",
+      "description": "Cabo Pulmo National Park emerges from bottom-up initiative."
+    },
+    {
+      "id": "evt_MTBSMXW",
+      "type": "Event",
+      "description": "Federal executive declares total ban on all marine turtle species in Mexican waters."
+    },
+    {
+      "id": "evt_PRPCFC",
+      "type": "Event",
+      "description": "Public resources used to build infrastructure for Pacific coast fishing cooperatives."
+    },
+    {
+      "id": "evt_FGFMCE",
+      "type": "Event",
+      "description": "First generation of funders begin marine conservation efforts."
+    },
+    {
+      "id": "evt_GNTotoabaProhib",
+      "type": "Event",
+      "description": "Gillnets for totoaba fishing prohibited area established."
+    },
+    {
+      "id": "1992",
+      "type": "Year",
+      "description": "1992"
+    },
+    {
+      "id": "evt_UNFCCCFormed",
+      "type": "Event",
+      "description": "UN Framework Convention on Climate Change (UNFCCC) established."
+    },
+    {
+      "id": "evt_UNCEDRio",
+      "type": "Event",
+      "description": "UN Conference on Environment and Development (Rio) held."
+    },
+    {
+      "id": "evt_VaqStatusChange",
+      "type": "Event",
+      "description": "IUCN changes vaquita status from vulnerable to endangered."
+    },
+    {
+      "id": "1993",
+      "type": "Year",
+      "description": "1993"
+    },
+    {
+      "id": "evt_AGCBioResDecreed",
+      "type": "Event",
+      "description": "Alto Golfo & Colorado River Delta Biosphere Reserve decreed."
+    },
+    {
+      "id": "evt_VaqProtectedList",
+      "type": "Event",
+      "description": "Vaquita included on Mexico's national protected species list (NOM-059-ECOL-1994)."
+    },
+    {
+      "id": "1994",
+      "type": "Year",
+      "description": "1994"
+    },
+    {
+      "id": "evt_FMCNCreated",
+      "type": "Event",
+      "description": "Mexican Fund for the Conservation of Nature (FMCN) created."
+    },
+    {
+      "id": "evt_AGCBioResMngProg",
+      "type": "Event",
+      "description": "Management Program for Alto Golfo Biosphere Reserve implemented."
+    },
+    {
+      "id": "1995",
+      "type": "Year",
+      "description": "1995"
+    },
+    {
+      "id": "evt_CaboPulmoPark",
+      "type": "Event",
+      "description": "Cabo Pulmo National Park (CPNP) created."
+    },
+    {
+      "id": "evt_GSCOperations",
+      "type": "Event",
+      "description": "Field station operations begin in Golfo de Santa Clara."
+    },
+    {
+      "id": "1996",
+      "type": "Year",
+      "description": "1996"
+    },
+    {
+      "id": "evt_NCNPACreated",
+      "type": "Event",
+      "description": "National Council of Natural Protected Areas created."
+    },
+    {
+      "id": "evt_TEDsMandate",
+      "type": "Event",
+      "description": "NOM-002-PESC-1996 mandates TEDs in shrimp trawling nets."
+    },
+    {
+      "id": "evt_KyotoProtocolSigned",
+      "type": "Event",
+      "description": "Kyoto Protocol signed."
+    },
+    {
+      "id": "1997",
+      "type": "Year",
+      "description": "1997"
+    },
+    {
+      "id": "evt_FANPEstablished",
+      "type": "Event",
+      "description": "Fund for Natural Protected Areas (FANP) established."
+    },
+    {
+      "id": "evt_ElNinoShrimpIncrease",
+      "type": "Event",
+      "description": "An El Niño event occurs, increasing shrimp catches."
+    },
+    {
+      "id": "1998",
+      "type": "Year",
+      "description": "1998"
+    },
+    {
+      "id": "evt_USMortgageInflux",
+      "type": "Event",
+      "description": "Accelerated US mortgage credit expansion impacts Baja California."
+    },
+    {
+      "id": "1999",
+      "type": "Year",
+      "description": "1999"
+    },
+    {
+      "id": "evt_MexFinDeregulation",
+      "type": "Event",
+      "description": "Financial deregulation occurs in Mexico."
+    },
+    {
+      "id": "evt_FAOShrimpBycatchWS",
+      "type": "Event",
+      "description": "FAO-sponsored multinational workshops on shrimp bycatch held."
+    },
+    {
+      "id": "2000",
+      "type": "Year",
+      "description": "2000"
+    },
+    {
+      "id": "evt_CONANPEstablished",
+      "type": "Event",
+      "description": "Comisión Nacional de Áreas Naturales Protegidas (CONANP) established."
+    },
+    {
+      "id": "evt_SpectraNetUse",
+      "type": "Event",
+      "description": "Spectra fishing net material begins to be used."
+    },
+    {
+      "id": "evt_VaqPopDecline90s",
+      "type": "Event",
+      "description": "Vaquita marina population declines significantly in the 1990s."
+    },
+    {
+      "id": "evt_BalandraConflict",
+      "type": "Event",
+      "description": "The Balandra conflict takes place."
+    },
+    {
+      "id": "evt_SEMARNATReorgLGEEPA",
+      "type": "Event",
+      "description": "SEMARNAT reorganizes, oversees env. zoning; LGEEPA regulation published."
+    },
+    {
+      "id": "evt_EspSantoMPAFail",
+      "type": "Event",
+      "description": "Attempt to implement MPA around Archipelago Espíritu Santo fails."
+    },
+    {
+      "id": "evt_LosCabosTurtleProg",
+      "type": "Event",
+      "description": "Los Cabos launches Marine Turtle Monitoring and Protection Program."
+    },
+    {
+      "id": "evt_MexSubsidiesEnd",
+      "type": "Event",
+      "description": "Subsidies to Mexico's primary sector end."
+    },
+    {
+      "id": "evt_CaboLaPazDevBoom",
+      "type": "Event",
+      "description": "Development 'boom' begins around Cabo and La Paz."
+    },
+    {
+      "id": "evt_FAO_ReykDec",
+      "type": "Event",
+      "description": "FAO releases Declaration of Reykjavik on responsible fisheries."
+    },
+    {
+      "id": "2001",
+      "type": "Year",
+      "description": "2001"
+    },
+    {
+      "id": "evt_CO_Urban",
+      "type": "Event",
+      "description": "Coastal oases in BCS urbanize with agroindustry and foreign retirees."
+    },
+    {
+      "id": "evt_SO_Disappear",
+      "type": "Event",
+      "description": "Smaller oases disappear due to abandonment or water diversion."
+    },
+    {
+      "id": "evt_WSSD_Fish",
+      "type": "Event",
+      "description": "World Summit on Sustainable Development held, promoting ecosystem-based fisheries."
+    },
+    {
+      "id": "2002",
+      "type": "Year",
+      "description": "2002"
+    },
+    {
+      "id": "evt_NRC_FishWshop",
+      "type": "Event",
+      "description": "NRC holds international workshop on fishing effects on ecosystem."
+    },
+    {
+      "id": "evt_CTDMO_EnvSci",
+      "type": "Event",
+      "description": "CTDMO launches program for environmental culture and science."
+    },
+    {
+      "id": "evt_ENP_Start",
+      "type": "Event",
+      "description": "Escalera Nautica project starts."
+    },
+    {
+      "id": "2003",
+      "type": "Year",
+      "description": "2003"
+    },
+    {
+      "id": "evt_AlCosta_ENP",
+      "type": "Event",
+      "description": "Al Costa alliance created to monitor Escalera Nautica project."
+    },
+    {
+      "id": "evt_SEMARNAT_Oasis",
+      "type": "Event",
+      "description": "SEMARNAT analyzes oasis ecosystems in PBC."
+    },
+    {
+      "id": "evt_INAPESCA_WWF_Suri",
+      "type": "Event",
+      "description": "INAPESCA and WWF develop suripera net to replace gillnets."
+    },
+    {
+      "id": "2004",
+      "type": "Year",
+      "description": "2004"
+    },
+    {
+      "id": "evt_ENP_FundImpl",
+      "type": "Event",
+      "description": "Escalera Nautica project receives funding and begins implementation."
+    },
+    {
+      "id": "2005",
+      "type": "Year",
+      "description": "2005"
+    },
+    {
+      "id": "evt_GoC_UNESCO",
+      "type": "Event",
+      "description": "Gulf of California declared UNESCO Natural World Heritage Site."
+    },
+    {
+      "id": "evt_Watton_GoC_Disc",
+      "type": "Event",
+      "description": "Watton family discovers and commits to protecting Gulf of California."
+    },
+    {
+      "id": "evt_GoC_SardineMax",
+      "type": "Event",
+      "description": "Record sardine catch in Eastern Gulf of California."
+    },
+    {
+      "id": "2006",
+      "type": "Year",
+      "description": "2006"
+    },
+    {
+      "id": "evt_SNIEG_Const",
+      "type": "Event",
+      "description": "Constitutional reform establishes National System of Statistical and Geographical Information (SNIEG)."
+    },
+    {
+      "id": "evt_GoC_MEZP_Impl",
+      "type": "Event",
+      "description": "First Marine Ecological Zoning Program for Gulf of California implemented."
+    },
+    {
+      "id": "evt_BCS_WaterRed",
+      "type": "Event",
+      "description": "BCS water extraction programmed for reduction."
+    },
+    {
+      "id": "evt_SDV_Irrig",
+      "type": "Event",
+      "description": "Low localized irrigation use in Santo Domingo Valley."
+    },
+    {
+      "id": "evt_RIDISOS_Form",
+      "type": "Event",
+      "description": "RIDISOS network formed to research Sudcalifornian oases."
+    },
+    {
+      "id": "evt_ENP_Emerges",
+      "type": "Event",
+      "description": "Escalera Náutica project emerges under Fox's government."
+    },
+    {
+      "id": "evt_PROFEPA_RHPTM",
+      "type": "Event",
+      "description": "PROFEPA accredits RHPTM as Mexico's largest participatory surveillance committee."
+    },
+    {
+      "id": "evt_WFF_GoC_Env",
+      "type": "Event",
+      "description": "Watton Family Foundation begins environmental work in Gulf of California."
+    },
+    {
+      "id": "evt_GlobalCrisis_Start",
+      "type": "Event",
+      "description": "Global economic crisis begins."
+    },
+    {
+      "id": "2007",
+      "type": "Year",
+      "description": "2007"
+    },
+    {
+      "id": "evt_CIMARES_Created",
+      "type": "Event",
+      "description": "Intersecretarial Commission for Sustainable Management of Seas and Coasts (CIMARES) created."
+    },
+    {
+      "id": "2008",
+      "type": "Year",
+      "description": "2008"
+    },
+    {
+      "id": "evt_CPNP_AuthEst",
+      "type": "Event",
+      "description": "New park authority established for Cabo Pulmo National Park."
+    },
+    {
+      "id": "evt_GFC_ENP_Disapp",
+      "type": "Event",
+      "description": "Global financial crisis hits, Escalera Nautica project disappears."
+    },
+    {
+      "id": "evt_WWF_FCS_Alliance",
+      "type": "Event",
+      "description": "WWF-Carlos Slim Foundation Alliance (Alianza WWF-FCS) established."
+    },
+    {
+      "id": "2009",
+      "type": "Year",
+      "description": "2009"
+    },
+    {
+      "id": "evt_COBI_SensorNet",
+      "type": "Event",
+      "description": "COBI begins marine environmental monitoring sensor network."
+    },
+    {
+      "id": "evt_VaquitaFriendly_Cert",
+      "type": "Event",
+      "description": "Alianza WWF-FCS and Pronatura implement \"Vaquita-Friendly\" fish certification."
+    },
+    {
+      "id": "2010",
+      "type": "Year",
+      "description": "2010"
+    },
+    {
+      "id": "evt_OECD_BLI",
+      "type": "Event",
+      "description": "OECD Better Life Index created."
+    },
+    {
+      "id": "evt_VMS_IndFish",
+      "type": "Event",
+      "description": "Satellite tracking (VMS) introduced for industrial fishing vessels."
+    },
+    {
+      "id": "evt_WFF_MexicoGrants",
+      "type": "Event",
+      "description": "Watton Family Foundation begins initial grant-making portfolio in Mexico."
+    },
+    {
+      "id": "evt_EDF_ShrimpExit",
+      "type": "Event",
+      "description": "EDF transitions out of Sinaloa shrimp fisheries work."
+    },
+    {
+      "id": "evt_LC_LandConflict",
+      "type": "Event",
+      "description": "Land tenure conflicts escalate in Los Comondú due to ejido boundaries and drought."
+    },
+    {
+      "id": "evt_LC_OrchardDecline",
+      "type": "Event",
+      "description": "Los Comondú's orchards decline, traditional knowledge lost."
+    },
+    {
+      "id": "evt_BCS_PopCensus",
+      "type": "Event",
+      "description": "Population census data for BCS cities (Cabo Pulmo, Loreto, La Paz)."
+    },
+    {
+      "id": "evt_WFF_SustSeafood",
+      "type": "Event",
+      "description": "WFF promotes market leverage for sustainable seafood."
+    },
+    {
+      "id": "evt_WFF_Smartfish",
+      "type": "Event",
+      "description": "WFF supports Smartfish's \"Value Rescue Model\" for fishermen."
+    },
+    {
+      "id": "evt_WFF_FishCommCap",
+      "type": "Event",
+      "description": "WFF invests in capacity building for fishing communities."
+    },
+    {
+      "id": "evt_ITFE",
+      "type": "Event",
+      "description": "Illegal totoaba fishing exploded due to market demand in China following the collapse of the Bahaba fishery."
+    },
+    {
+      "id": "2013",
+      "type": "Year",
+      "description": "2013"
+    },
+    {
+      "id": "evt_MGIC",
+      "type": "Event",
+      "description": "The Mexican government implemented a strategy to show its commitment, including expanding the protected area, providing economic compensation, reinforcing surveillance, and promoting alternative fishing gear. A temporary suspension of gillnet fishing was included."
+    },
+    {
+      "id": "2015",
+      "type": "Year",
+      "description": "2015"
+    },
+    {
+      "id": "evt_ITDNSM",
+      "type": "Event",
+      "description": "The illegal totoaba trade was declared a national security matter in Mexico, involving CISEN."
+    },
+    {
+      "id": "evt_USMGBCV",
+      "type": "Event",
+      "description": "The US and Mexican governments announced strengthened bilateral cooperation to protect the vaquita, although the illegal totoaba trade increased that same year."
+    },
+    {
+      "id": "2016",
+      "type": "Year",
+      "description": "2016"
+    },
+    {
+      "id": "evt_GNRPL",
+      "type": "Event",
+      "description": "The multi-institutional Ghost Net Removal Program of the Upper Gulf of California is launched by the Mexican government, Sea Shepherd Conservation Society (SSCS), and WWF, involving 17 organizations."
+    },
+    {
+      "id": "evt_CMUSTMTT",
+      "type": "Event",
+      "description": "China, Mexico, and the US held their first trilateral meeting in Ensenada, Mexico, to combat totoaba trafficking and demand. They agreed to strengthen information sharing and signed a memorandum of understanding."
+    },
+    {
+      "id": "2017",
+      "type": "Year",
+      "description": "2017"
+    },
+    {
+      "id": "evt_PAGCWHID",
+      "type": "Event",
+      "description": "The Protected Areas of the Gulf of California are listed by UNESCO as World Heritage in Danger."
+    },
+    {
+      "id": "2019",
+      "type": "Year",
+      "description": "2019"
+    },
+    {
+      "id": "evt_CIFGNS",
+      "type": "Event",
+      "description": "Conflicts related to illegal fishing emerge. Tons of ghost nets stored for recycling were stolen from private facilities."
+    },
+    {
+      "id": "evt_DMLPNY",
+      "type": "Event",
+      "description": "A significant decrease in the mean trophic level is observed in the northern Peninsula of Yucatan, interpreted as a potential ecosystem risk. (top predators are removed)"
+    },
+    {
+      "id": "2011",
+      "type": "Year",
+      "description": "2011"
+    },
+    {
+      "id": "evt_EGCLDF",
+      "type": "Event",
+      "description": "The Eastern Gulf of California has the lowest proportion of deteriorated fisheries (over-fishing) and the highest proportion of developing fisheries."
+    },
+    {
+      "id": "evt_BPEPC",
+      "type": "Event",
+      "description": "The book \"Efectos de la pesca de arrastre en el Golfo de California\" is published, a product of investigations focused on the impacts of shrimp trawl fishing in the Gulf of California. A target year is set for closing areas seasonally to protect breeding grounds and establishing a representative network of marine protected areas."
+    },
+    {
+      "id": "2012",
+      "type": "Year",
+      "description": "2012"
+    },
+    {
+      "id": "evt_UNDOSSD",
+      "type": "Event",
+      "description": "The UN proclaims the Decade of Ocean Science for Sustainable Development (2021–2030) to ensure ocean science supports countries in achieving the Sustainable Development Goals (SDGs) of the 2030 Agenda."
+    },
+    {
+      "id": "evt_HLPSOE",
+      "type": "Event",
+      "description": "The High-Level Panel for a Sustainable Ocean Economy (HLP) is formed, initiated by the Government of Norway, to catalyze and support solutions for ocean health and wealth. Mexico becomes a member of this Panel."
+    },
+    {
+      "id": "2018",
+      "type": "Year",
+      "description": "2018"
+    },
+    {
+      "id": "evt_PROBLUE",
+      "type": "Event",
+      "description": "PROBLUE, a World Bank program supporting integrated, sustainable, and healthy marine and coastal resource development, is launched."
+    },
+    {
+      "id": "evt_COIL",
+      "type": "Event",
+      "description": "The Clean Oceans Initiative is launched by the European Investment Bank, AFD, and KfW, aiming to finance €2 billion in projects to prevent plastic waste from reaching rivers or seas."
+    },
+    {
+      "id": "evt_HOBCS",
+      "type": "Event",
+      "description": "Hurricane Odile: A natural disaster strikes BCS, leading to widespread looting in urban centers and a two-year recovery period for basic infrastructure and business revenue to return to previous levels. This event highlights the vulnerability of the region and the challenges in post-disaster recovery."
+    },
+    {
+      "id": "2014",
+      "type": "Year",
+      "description": "2014"
+    },
+    {
+      "id": "evt_ASAESD",
+      "type": "Event",
+      "description": "ASA (Alianza para la Seguridad Alimentaria de Baja California Sur) is initially established but becomes dormant as it doesn't fulfill its initial mission."
+    },
+    {
+      "id": "evt_CPMWMB",
+      "type": "Event",
+      "description": "The COVID-19 pandemic triggers a new wave of migration to Baja California, particularly La Paz and Los Cabos, as people take advantage of remote work opportunities. This includes significant numbers of Americans, Canadians, and Mexicans seeking permanent or temporary residency."
+    },
+    {
+      "id": "evt_MRSBCS",
+      "type": "Event",
+      "description": "Migration routes shift, with migrants increasingly traveling through Baja California Sur to avoid more complex areas in Sonora and Sinaloa, inadvertently drawing organized crime further south."
+    },
+    {
+      "id": "evt_CWAI",
+      "type": "Event",
+      "description": "Challenges with water availability intensify, partly due to aquifer overexploitation for agriculture and population growth, and the diminished flow of the Colorado River affecting the ecosystem."
+    },
+    {
+      "id": "evt_EDFRC",
+      "type": "Event",
+      "description": "Environmental Defense Fund (EDF) is brought into the region. EDF helps change the narrative around fisheries versus conservation and facilitates dialogue by hosting annual summits on fisheries (initially focused on catch shares, later shifting to sustainable fisheries). This creates a space for previously polarized NGOs, fisheries, and development sectors to communicate."
+    },
+    {
+      "id": "evt_ICPSEA",
+      "type": "Event",
+      "description": "The Impacto Colectivo platform for sustainable fisheries and aquaculture is likely created, providing a space for different actors to collaborate."
+    },
+    {
+      "id": "evt_OCITFP",
+      "type": "Event",
+      "description": "Organized crime's involvement in the Totoaba fishery in the upper Gulf of California peaks, marking a significant increase in criminal organizations working in this sector. This activity later spreads to other fisheries."
+    },
+    {
+      "id": "evt_MGDFSF",
+      "type": "Event",
+      "description": "The Mexican government decides to stop all fisheries subsidies previously given through intermediaries (cooperatives, etc.) and instead gives them directly to individual fishermen."
+    },
+    {
+      "id": "evt_CPCSM",
+      "type": "Event",
+      "description": "COVID-19 Pandemic Causes shifts in markets, making it difficult for fishermen to sell perishable products as people reduced visits to supermarkets. However, its impact on the \"transition ecosystem\" is seen as less significant than government changes."
+    },
+    {
+      "id": "evt_SAGARPAGCF",
+      "type": "Event",
+      "description": "SAGARPA began regulating a portion of the Gulf curvina fishery's production through a Rights-Based Management (RBM) system. This included setting an annual Total Allowable Catch (TAC) or quota based on INAPESCA's stock assessments."
+    },
+    {
+      "id": "evt_PLIMSC",
+      "type": "Event",
+      "description": "Pacific Lobster (Isla de la Natividad) achieved MSC certification."
+    },
+    {
+      "id": "evt_SAILCLFL",
+      "type": "Event",
+      "description": "Senator Aarón Irízar López (PRI-Sinaloa) introduced legislation to include a formal definition of \"catch limit\" in fisheries law, which passed in the Senate."
+    },
+    {
+      "id": "evt_PAMSLC",
+      "type": "Event",
+      "description": "The \"Paredones Amarillos\" mining conflict in the Sierra de la Laguna intensifies. An attempt to build an open-pit mine in this crucial water source area sparks strong resistance, mobilizing not just CSOs but also broader communities against this type of development. This is highlighted as a significant moment of conflict and societal organization."
+    },
+    {
+      "id": "evt_CONANPEES",
+      "type": "Event",
+      "description": "CONANP conducts the \"Ecological Evaluation Sheets of Natural Protected Areas of Northwest Mexico,\" evaluating 14 ANPs and 2 Ramsar sites."
+    },
+    {
+      "id": "evt_APCSUTMB",
+      "type": "Event",
+      "description": "The \"Action Plan for the Conservation and Sustainable Use of Terrestrial and Marine Biodiversity in the Gulf of California and South Baja California Pacific Region\" is developed, identifying legal and policy instruments for 140 priority sites."
+    },
+    {
+      "id": "evt_PANGASIPO",
+      "type": "Event",
+      "description": "The PANGAS interdisciplinary project operates, focused on an ecosystem-based research and management framework for small-scale fisheries in the Northern Gulf of California."
+    },
+    {
+      "id": "evt_ALCOSTAPO",
+      "type": "Event",
+      "description": "ALCOSTA (Alliance for the Sustainability of the Mexican Coastal Northwest), an alliance of 22 CSOs, operates to influence public policy."
+    },
+    {
+      "id": "evt_CSSDIP",
+      "type": "Event",
+      "description": "Comprehensive Strategies Stage: Development and implementation of plans and strategies from various perspectives (insular territory, cooperative system). Ecosytemic approaches are emphasized, with greater attention to coastal communities."
+    },
+    {
+      "id": "evt_BIOMARP",
+      "type": "Event",
+      "description": "The BioMar program operates with objectives related to ANP networks, successful conservation models, ecosystem connectivity and resilience, and coordination among actors."
+    },
+    {
+      "id": "evt_PPCSOM",
+      "type": "Event",
+      "description": "Programa Pescadero operates, focusing on strengthening the capacities of CSOs in northwest Mexico."
+    },
+    {
+      "id": "evt_GPETBCP",
+      "type": "Event",
+      "description": "The government implements programs like the Temporary Employment Program (PET), which pays orchard owners to clean their own orchards, a controversial initiative viewed by some locals as dishonest given the owners' absence. All Baja California peninsula oases are at risk of disappearing without efficient intervention."
+    },
+    {
+      "id": "evt_CTSRRD",
+      "type": "Event",
+      "description": "Conflict erupts between Todos Santos residents and real estate developers when infrastructure construction begins in the beach area and on a small wetland. This alters sediment dynamics, causing rapid beach erosion (approx. 30 meters lost)."
+    },
+    {
+      "id": "evt_BWSTSEP",
+      "type": "Event",
+      "description": "The blocking of water and sediment supplies by Tres Santos's engineering work continues to disrupt the natural dynamics of the Punta Lobos ecosystem, leading to systematic loss of balance between sediment deposition and transport. The conflict continues to generate public rejection and confrontation."
+    },
+    {
+      "id": "evt_GTCSFBTM",
+      "type": "Event",
+      "description": "The GTC faces a severe crisis due to a shark fishing ban, leading to increased turtle mortality in the Gulf of Ulloa and conflict in López Mateos."
+    },
+    {
+      "id": "evt_ASAPIS",
+      "type": "Event",
+      "description": "The Alianza de Seguridad Alimentaria (ASA) project informally starts, emerging out of ICF, to address food security concerns around Cabo and La Paz."
+    },
+    {
+      "id": "evt_HOSTRVS",
+      "type": "Event",
+      "description": "Hurricane Odile strikes the region, revealing severe vulnerabilities in infrastructure, social stability, and food security. This event serves as a significant milestone, opening people's eyes to the impact of hurricanes and leading to community insecurity and general chaos."
+    },
+    {
+      "id": "TO.01",
+      "type": "TO",
+      "description": "Protection"
+    },
+    {
+      "id": "TO.07",
+      "type": "TO",
+      "description": "Anchoring"
+    },
+    {
+      "id": "TO.08",
+      "type": "TO",
+      "description": "Institutionalization"
+    },
+    {
+      "id": "TO.15",
+      "type": "TO",
+      "description": "Establishing acceptable limits"
+    },
+    {
+      "id": "TO.11",
+      "type": "TO",
+      "description": "Deinstitutionalization"
+    },
+    {
+      "id": "TO.02",
+      "type": "TO",
+      "description": "Learning"
+    },
+    {
+      "id": "TO.16",
+      "type": "TO",
+      "description": "Resilience building"
+    },
+    {
+      "id": "TO.03",
+      "type": "TO",
+      "description": "Network creation"
+    },
+    {
+      "id": "TO.12",
+      "type": "TO",
+      "description": "Delegitimization of visions"
+    },
+    {
+      "id": "TO.05",
+      "type": "TO",
+      "description": "Scaling up"
+    },
+    {
+      "id": "TO.06",
+      "type": "TO",
+      "description": "Replication"
+    },
+    {
+      "id": "TO.14",
+      "type": "TO",
+      "description": "Anticipate and mitigate side effects / rebound effects"
+    },
+    {
+      "id": "TO.09",
+      "type": "TO",
+      "description": "Unlearning"
+    },
+    {
+      "id": "TO.13",
+      "type": "TO",
+      "description": "Anticipate and mitigate injustices"
+    },
+    {
+      "id": "TO.04",
+      "type": "TO",
+      "description": "Expectation management"
+    },
+    {
+      "id": "TO.10",
+      "type": "TO",
+      "description": "Coalition dissolution"
+    },
+    {
+      "id": "niche_MPAFCI",
+      "type": "Niche",
+      "description": "Marine Protected Areas with Fishing Community Inclusion (new wave of environmental conservation that integrates the interests of fishing communities)"
+    },
+    {
+      "id": "niche_BC_GA",
+      "type": "Niche",
+      "description": "Biodiversity Conservation (as a guiding approach) (deliberate focus and guiding principle for action that promotes alternative rules for how various systems interact with natural capital)"
+    },
+    {
+      "id": "niche_EBFMA",
+      "type": "Niche",
+      "description": "Ecosystem-Based Fisheries Management (EBFM) Approach (significant alternative approach and rule-set for fisheries governance)"
+    },
+    {
+      "id": "niche_STS_CDPP",
+      "type": "Niche",
+      "description": "The systematic technical studies (new, evidence-based approach to understanding and planning for the region's environmental and socio-economic dynamics)"
+    },
+    {
+      "id": "niche_CLEMWS",
+      "type": "Niche",
+      "description": "Community-led Environmental Management & Water Solutions (leveraging civil society organizations and community efforts to implement alternative technologies and organizational approaches for sustainable water management)"
+    },
+    {
+      "id": "niche_ERC",
+      "type": "Niche",
+      "description": "Ecosystem Restoration Communities (community-led initiatives focus on actively restoring degraded ecosystems, promoting alternative practices of land stewardship and ecological health)"
+    },
+    {
+      "id": "niche_SLITT",
+      "type": "Niche",
+      "description": "Selective and Low-Impact Trawling Technology (technological innovations and alternative practices to make shrimp trawling more selective and efficient)"
+    },
+    {
+      "id": "niche_SBSFMRA",
+      "type": "Niche",
+      "description": "Science-Based Sustainable Fisheries Management and Resource Assessment (radical alternative approach to traditional fisheries management focused on scientific and technological assessment)"
+    },
+    {
+      "id": "niche_ACFRP",
+      "type": "Niche",
+      "description": "Asa's Climate and Food Resilience Program (promotes alternative practices and strategies to build local resilience against climate change impacts and external supply chain disruptions)"
+    },
+    {
+      "id": "niche_ICPAP",
+      "type": "Niche",
+      "description": "Impacto Colectivo para la Pesca y la Acuacultura Sustentable (Collective Impact for Sustainable Fisheries and Aquaculture) Platform (multi-stakeholder space using a collective impact approach methodology)"
+    },
+    {
+      "id": "niche_SOE",
+      "type": "Niche",
+      "description": "Sustainable Ocean Economy (macro-level alternative approach and a new set of rules for managing ocean resources)"
+    },
+    {
+      "id": "niche_REA",
+      "type": "Niche",
+      "description": "Regenerative Economy Approach (in Recycling, Fishing, Local Tourism, Diversity) (represents an 'alternative approach' and set of 'rules' for economic activity)"
+    },
+    {
+      "id": "niche_CDWBCS",
+      "type": "Niche",
+      "description": "Collective for Decent Work Baja California Sur (functions as an 'alternative form of organization' and 'approach' to address regional challenges)"
+    },
+    {
+      "id": "niche_ASA_ORG_PROG",
+      "type": "Niche",
+      "description": "ASA Alimentaria (Organization and Programs) (organization that actively promotes systemic change in the food system of Baja California Sur towards being just, resilient, and healthy, by developing programs like agroecological transitions and food resilience)"
+    },
+    {
+      "id": "niche_ITA_WR",
+      "type": "Niche",
+      "description": "Instituto de Tierras Áridas (Work/Research) (institute's work on arid land management likely involves research and practical applications of sustainable techniques tailored to the region's specific environmental challenges)"
+    },
+    {
+      "id": "niche_ARALP",
+      "type": "Niche",
+      "description": "Agroecological and Regenerative Agricultural/Livestock Practices (alternative methods for agriculture and livestock management that seek to transition away from conventional, resource-intensive approaches)"
+    },
+    {
+      "id": "niche_CBFMNFZ",
+      "type": "Niche",
+      "description": "Community-Based Fisheries Management / No-Fishing Zones (alternative form of organization and approach to managing fisheries by directly involving local fishermen)"
+    },
+    {
+      "id": "niche_TEKCCI",
+      "type": "Niche",
+      "description": "Traditional Ecological Knowledge and Community Conservation Initiatives (local populations actively work to maintain traditional fishing and agricultural techniques and engage in community-led initiatives)"
+    },
+    {
+      "id": "niche_CBTSSSF",
+      "type": "Niche",
+      "description": "Capacity Building and Technical Support for Small-Scale Fisheries (by Walton/NGOs) (focuses on empowering fishing cooperatives to improve their practices, achieve profitable and sustainable businesses)"
+    },
+    {
+      "id": "niche_PF",
+      "type": "Niche",
+      "description": "Philanthropic Fund (alternative financial instrument mobilizes philanthropic capital and grants to support initiatives that may not fit traditional market-based investments)"
+    },
+    {
+      "id": "niche_HWNCF",
+      "type": "Niche",
+      "description": "Holistic Well-being and Nature Conservation Frameworks (alternative approaches to measuring and pursuing prosperity that explicitly integrate environmental preservation and broader holistic well-being)"
+    },
+    {
+      "id": "niche_EDFAAF",
+      "type": "Niche",
+      "description": "Environmental Defense Fund (EDF) Alternative Approach in Fisheries (alternative strategy moving beyond existing methods to promote sustainable practices and change polarizing narratives)"
+    },
+    {
+      "id": "niche_MESPPGC",
+      "type": "Niche",
+      "description": "The Marine Ecological Spatial Planning Program for the Gulf of California (new, overarching approach and framework for managing the Gulf's resources)"
+    },
+    {
+      "id": "niche_RLNGO",
+      "type": "Niche",
+      "description": "Rise of Local NGOs (Promatura, Comuneabia, diversidad, Niparaja) (emerged as alternative actors, complementing larger international efforts and developing a local base for promoting new environmental practices)"
+    },
+    {
+      "id": "niche_EINGO",
+      "type": "Niche",
+      "description": "Early International NGOs (Wildlife Fund, Conservation International, The Nature Conservancy) (initiated a new wave of environmental movements in the region, introducing science-driven, top-down conservation approaches)"
+    },
+    {
+      "id": "niche_PFPEP",
+      "type": "Niche",
+      "description": "Pronatura's Field Programs, Experiments, and Pilots (in regeneration and community programs) (concrete, on-the-ground alternative practices and experimental initiatives that foster regeneration and build capacity within local communities)"
+    },
+    {
+      "id": "niche_NGOSFIS",
+      "type": "Niche",
+      "description": "NGO-Supported Sustainable Fishing Initiatives (Certifications, FIPs, Capacity Building, Traceability) (cluster of alternative practices and knowledge incubation programs that directly help fishermen adopt and be recognized for sustainable fishing methods)"
+    },
+    {
+      "id": "niche_BF_CF",
+      "type": "Niche",
+      "description": "Bioregional Funds (Catalytic Fund) (alternative financial instrument and organizational approach aimed at accelerating transformative changes across multiple socio-technical systems)"
+    },
+    {
+      "id": "niche_ATDM",
+      "type": "Niche",
+      "description": "Anti-Tourism/Development Movements (e.g., El Mogote, Balandra, El Palmar) (organized resistance against specific large-scale tourism and real estate developments perceived as detrimental to natural landscapes and community interests)"
+    },
+    {
+      "id": "niche_CLTFHA",
+      "type": "Niche",
+      "description": "Community Land Trusts (CLTs) for Affordable Housing (innovative, long-term community housing model designed to mitigate the negative impacts of gentrification and ensure housing affordability)"
+    },
+    {
+      "id": "niche_BUFFS",
+      "type": "Niche",
+      "description": "Bycatch Utilization for Food Security (alternative approach to the traditional discarding of bycatch, aiming for its integral utilization)"
+    },
+    {
+      "id": "niche_SPA",
+      "type": "Niche",
+      "description": "Sistemas de Pesca Alternativos (alternative practices and approaches being developed and explored within a protected space)"
+    },
+    {
+      "id": "niche_EMU_UGAS_LVW",
+      "type": "Niche",
+      "description": "The Environmental Management Units (UGAs) and localized problem verification workshops (localized alternative practices for environmental governance and conflict resolution)"
+    },
+    {
+      "id": "niche_ALFC",
+      "type": "Niche",
+      "description": "Alumbra's Concessionary Loans for Fishing Cooperatives (alternative financial model that fills a gap left by discontinued government subsidies and incentivizes sustainable practices)"
+    },
+    {
+      "id": "niche_AEVTOS",
+      "type": "Niche",
+      "description": "Alternative Economic Ventures for Tourism Off-Season (involves designing and financing new entrepreneurial activities to generate income during the tourism off-season)"
+    },
+    {
+      "id": "niche_HOISRP",
+      "type": "Niche",
+      "description": "Historical Oasis and Irrigation Systems (Ranchero Production) (historical form of production fostered a culture of self-sufficiency and small, integrated communities)"
+    },
+    {
+      "id": "niche_YCB_DLP",
+      "type": "Niche",
+      "description": "Youth Capacity Building for Diverse Life Paths (focuses on creating awareness campaigns and training programs that promote alternative life goals and options for young people)"
+    },
+    {
+      "id": "niche_CBELI",
+      "type": "Niche",
+      "description": "Community-based Extracurricular Learning Initiatives (focuses on creating and providing additional learning opportunities for children and youth within their communities)"
+    },
+    {
+      "id": "niche_AA",
+      "type": "Niche",
+      "description": "Alcosta Alliance (coordinated, alternative organizational response to actively monitor and deter large-scale, environmentally impactful government development projects)"
+    },
+    {
+      "id": "niche_NFCCSO",
+      "type": "Niche",
+      "description": "New Forms of Collaboration among Civil Society Organizations (CSOs) (alternative approach to collective action within civil society, moving towards deeper and more integrated collaborations)"
+    },
+    {
+      "id": "niche_CSOGSR",
+      "type": "Niche",
+      "description": "Community-based Self-Organization and Governance (Sierra Region) (communities in the Sierra region exhibit a strong sense of identity, kinship, and social cohesion, leading to the development of formal and informal organizational structures)"
+    },
+    {
+      "id": "niche_MCMEP",
+      "type": "Niche",
+      "description": "The multi-sectoral Committee for Marine Ecological Planning (alternative form of organization and governance approach)"
+    },
+    {
+      "id": "niche_OHITGB",
+      "type": "Niche",
+      "description": "Ocean Health Index (Tropicalized for Gulf Bioregion) (innovation in scientific measurement and assessment for a specific environmental system)"
+    },
+    {
+      "id": "niche_SFC",
+      "type": "Niche",
+      "description": "Sustainable Fisheries Certification (e.g., MSE) (involves an alternative practice and rule-set, where certifications provide incentives for responsible fishing and help access markets)"
+    },
+    {
+      "id": "niche_SFVRM",
+      "type": "Niche",
+      "description": "Smartfish's 'Value Rescue Model' (business model offers an alternative market approach by demonstrating that high quality and consistency are essential for sustainable seafood)"
+    },
+    {
+      "id": "niche_OHP",
+      "type": "Niche",
+      "description": "Ocean Health Platform (new organizational model and collaborative space for actors dedicated to ocean health)"
+    },
+    {
+      "id": "niche_GOCP",
+      "type": "Niche",
+      "description": "Gulf of California Platform (Ocean Health Index, Ocean Health Action, Ocean Health Fund of Funds) (comprehensive platform is a novel organizational and financial model that aims to integrate diverse efforts towards a shared vision for ocean health)"
+    },
+    {
+      "id": "niche_FSA",
+      "type": "Niche",
+      "description": "Food Systems Alliance (organization actively working on 'systems transformation' in food, promoting alternative practices)"
+    },
+    {
+      "id": "niche_CMCASFP",
+      "type": "Niche",
+      "description": "ComMeCOP Advisory Committee/Strategic Funding Platform (collaborative platform, receiving strategic funding to empower fishing leaders to participate in decision-making spaces)"
+    },
+    {
+      "id": "niche_AMM",
+      "type": "Niche",
+      "description": "Anti-Mining Movements (e.g., Paredones Amarillos, Sierra de la Laguna) (organized resistance by communities and NGOs against large-scale mining projects, which threatened natural resources)"
+    },
+    {
+      "id": "niche_LCE_TP",
+      "type": "Niche",
+      "description": "'La Casa de Entrepreneur' Training Program (alternative practice focused on 'capacity building', providing local people with the skills to own and manage local businesses)"
+    },
+    {
+      "id": "niche_BCSCA",
+      "type": "Niche",
+      "description": "Baja California Sur Community Alliance (alternative form of organization that emerged from a crisis, bringing together civil society, businesses, and government)"
+    },
+    {
+      "id": "niche_ATBF",
+      "type": "Niche",
+      "description": "Alumbra's totoaba breeding farms (alternative, controlled practice for totoaba breeding)"
+    },
+    {
+      "id": "niche_GTMPTF",
+      "type": "Niche",
+      "description": "Go-to-Market Project for Transition Farmers (new business model designed to connect farmers adopting agroecological practices with new markets)"
+    },
+    {
+      "id": "niche_RWE",
+      "type": "Niche",
+      "description": "Regenerative Women Entrepreneurs (alternative form of organization and actor group that applies a 'regenerative' ethos to entrepreneurial activities)"
+    },
+    {
+      "id": "niche_FPIIK",
+      "type": "Niche",
+      "description": "Fishing practices incorporating permits and indigenous knowledge (alternative practice of resource management that integrates traditional knowledge with formal regulations)"
+    },
+    {
+      "id": "niche_ELBA",
+      "type": "Niche",
+      "description": "The Environmental Logbook (alternative practice and form of organization for public transparency and accountability)"
+    },
+    {
+      "id": "niche_IIFGCBE",
+      "type": "Niche",
+      "description": "Impact investment fund for the Gulf of California focused on blue economy (novel business model and approach to investment, explicitly designed to foster sustainable economic development and conservation)"
+    },
+    {
+      "id": "niche_PEFRA",
+      "type": "Niche",
+      "description": "Piloting entrance fees for reserve access (La Mano del Mono project) (innovative financial model and conservation practice)"
+    },
+    {
+      "id": "niche_CC_MSS",
+      "type": "Niche",
+      "description": "Community Centers (multi-service 'one stop shops' or 'islands of coherence' providing integrated services like food, education, and health)"
+    },
+    {
+      "id": "niche_FB",
+      "type": "Niche",
+      "description": "Food Banks (La Paz, Los Cabos) (new form of organization and approach that directly addresses food loss and waste)"
+    },
+    {
+      "id": "niche_SCSF",
+      "type": "Niche",
+      "description": "Sea of Cortez Forum (platform established by a major business family with the aim of coordinating regional economic activity around sustainability)"
+    },
+    {
+      "id": "niche_BHIIF",
+      "type": "Niche",
+      "description": "Bioregional Hub / Impact Investment Fund (Co.org.mx initiative with Alumbra) (proposed novel financial and organizational model, utilizing patient capital to fund profitable projects that protect the Sea of Cortez)"
+    },
+    {
+      "id": "niche_BUIHFI",
+      "type": "Niche",
+      "description": "BlueU - Quality Improvement in Hake Fisheries (Ice Making) (initiative focuses on improving the quality and sanitary conditions of seafood through practical enhancements like ice making)"
+    },
+    {
+      "id": "niche_FTPSF",
+      "type": "Niche",
+      "description": "Fair Trade Practices in Shrimp Fisheries (alternative economic practice that provides premium payments to cooperatives adopting good, sustainable fishing methods)"
+    },
+    {
+      "id": "niche_PAP",
+      "type": "Niche",
+      "description": "Pescador a Pescador (Fisher to Fisher) Program (alternative, peer-to-peer learning and networking model that facilitates direct exchange of experiences among hundreds of fishermen)"
+    },
+    {
+      "id": "niche_RITA_WEI",
+      "type": "Niche",
+      "description": "Regional Impact Trade Alliance (RITA) / Wellbeing Economy Initiative (alternative economic model focusing on 'wellbeing economy' and 'impact region' within the Sea of Cortez area)"
+    },
+    {
+      "id": "niche_DDJFJI",
+      "type": "Niche",
+      "description": "Diagnosis of Decent Job and Future of Jobs Intervention (specific 'alternative action' or 'design process' involves collecting information to gain a new understanding of what constitutes a 'decent job')"
+    },
+    {
+      "id": "niche_LRDCACF",
+      "type": "Niche",
+      "description": "La Ruta de la Coneccion (The Connection Route) and Associated Community Fund (innovative approach to community empowerment and resource allocation)"
+    },
+    {
+      "id": "niche_DLTSHP",
+      "type": "Niche",
+      "description": "Distance Learning & Temporary Student Housing Programs (offer alternative educational delivery methods and supportive temporary housing models)"
+    },
+    {
+      "id": "niche_AATPHMR",
+      "type": "Niche",
+      "description": "Asa's Agroecological Transitions Program (including holistic management for ranches) (supports ranches in transitioning to holistic management and agroecological practices)"
+    },
+    {
+      "id": "niche_AFBPCSP",
+      "type": "Niche",
+      "description": "Asa's Food Bank Program (with community strengthening projects) (alternative model for food provision and community support, particularly in vulnerable communities)"
+    },
+    {
+      "id": "niche_AFLWP",
+      "type": "Niche",
+      "description": "Asa's Food Loss and Waste Program (focuses on an alternative approach to managing food resources by addressing loss and waste)"
+    },
+    {
+      "id": "niche_ECLMS",
+      "type": "Niche",
+      "description": "Ejidos (Communal Land Management System) (communal land ownership and distribution model distinct from large-scale private ownership)"
+    },
+    {
+      "id": "niche_GEAM",
+      "type": "Niche",
+      "description": "'Guardia Ecológica' (Audience/Mindset) (significant audience segment in Baja California Sur embodies alternative behaviors and values, prioritizing environmental sustainability, nature tourism, and advocating for stricter environmental regulations)"
+    },
+    {
+      "id": "niche_PMIMP",
+      "type": "Niche",
+      "description": "Participatory Mining Impact Mitigation Projects (collaborative projects between communities, experts, and mining companies to assess and mitigate the negative impacts of mining)"
+    },
+    {
+      "id": "niche_CSM",
+      "type": "Niche",
+      "description": "Colectivo Sierra Mar (embodies a new form of cross-system collaboration aimed at generating synergies for regional sustainability across land and water systems)"
+    },
+    {
+      "id": "niche_TBFP_CO",
+      "type": "Niche",
+      "description": "Transformative Bundle Framework/Process (with CO) (collaborative framework serves as an 'action-oriented approach' and a 'conceptual framework' designed to influence and steer socio-technical transitions)"
+    },
+    {
+      "id": "niche_CSCSCP",
+      "type": "Niche",
+      "description": "Community Sociability and Social Cohesion Practices (strong emphasis among paceños on collective activities, family time, and the use of public spaces as social hubs)"
+    }
+  ],
+  "edges": [
+    {
+      "from": "evt_FMRFSD",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_LSCAFD",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "1992",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNFCCCFormed",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "1992",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "TO.12",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNCEDRio",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "2002",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "TO.02",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "TO.12",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WSSD_Fish",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_FAO_ReykDec",
+      "to": "2001",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_FAO_ReykDec",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_FAO_ReykDec",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_FAO_ReykDec",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_FAO_ReykDec",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CIMARES_Created",
+      "to": "2008",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_CIMARES_Created",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CIMARES_Created",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CIMARES_Created",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CIMARES_Created",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "2018",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "TO.16",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_HLPSOE",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "2018",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "TO.16",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_PROBLUE",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "2017",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "TO.02",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_UNDOSSD",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "2018",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.01",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.03",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_IIFGCBE",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_MESPPGC",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_OHITGB",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_OHP",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_SCSF",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_SOE",
+      "to": "niche_GOCP",
+      "relationship_type": "similar_to"
+    }
+  ]
+}

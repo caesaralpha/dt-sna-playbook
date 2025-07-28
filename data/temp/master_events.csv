@@ -1,0 +1,131 @@
+id,short_description,year
+evt_CRDDR,Colorado River Delta declared fishing reserve.,1974
+evt_GTFP,Gillnets for totoaba fishing prohibited.,1975
+evt_IUCNTE,IUCN lists totoaba as endangered species.,1979
+evt_GCDF,"Glen Canyon Dam filled, reducing river flow.",1979
+evt_TSFI,Trawl shrimp fleet in AGC increases due to National Fisheries Development Plan.,1980
+evt_GCIFPS,Gulf of California islands granted federal protected status.,1978
+evt_SFTFB,Secretariat of Fisheries issues total experimental fishing ban.,1971
+evt_FGBIC,Franchises granted during fishing ban to control illegal capture.,1975
+evt_CTEVDNPA,Campamento Tortuguero El Verde declared Natural Protected Area.,1977
+evt_CRIPBRTC,Research and rehabilitation tanks constructed at CRIP-Bahía de Los Ángeles.,1980
+evt_IUCNLVQ,IUCN listed the vaquita as vulnerable on the Red List of Threatened Species.,1986
+evt_IHHNVMX,Infectious Hypodermal and Hematopoietic Necrosis Virus (IHHNV) first introduced to Mexico.,1987
+evt_SKBRWHS,Sian Ka’an Biosphere Reserve declared World Heritage Site.,1987
+evt_FMRFSD,Restructuring of federal ministries leads to decline of fishing sector.,1988
+evt_CRDFR,River flow restrictions to the Colorado River delta begin.,1989
+evt_SCSFLII,All shrimp farms and laboratories on Sonora coast infected with IHHNV.,1990
+evt_LSCAFD,"Lowest shrimp capture in AGC fishery recorded, coinciding with primary organic productivity decrease.",1990
+evt_OWBCSS,"Number of overexploited wells in Baja California Sur increases to over 580, with 78% saline.",1990
+evt_CPNPEBUI,Cabo Pulmo National Park emerges from bottom-up initiative.,1990
+evt_MTBSMXW,Federal executive declares total ban on all marine turtle species in Mexican waters.,1990
+evt_PRPCFC,Public resources used to build infrastructure for Pacific coast fishing cooperatives.,1990
+evt_FGFMCE,First generation of funders begin marine conservation efforts.,1990
+evt_GNTotoabaProhib,Gillnets for totoaba fishing prohibited area established.,1992
+evt_UNFCCCFormed,UN Framework Convention on Climate Change (UNFCCC) established.,1992
+evt_UNCEDRio,UN Conference on Environment and Development (Rio) held.,1992
+evt_VaqStatusChange,IUCN changes vaquita status from vulnerable to endangered.,1993
+evt_AGCBioResDecreed,Alto Golfo & Colorado River Delta Biosphere Reserve decreed.,1993
+evt_VaqProtectedList,Vaquita included on Mexico's national protected species list (NOM-059-ECOL-1994).,1994
+evt_FMCNCreated,Mexican Fund for the Conservation of Nature (FMCN) created.,1994
+evt_AGCBioResMngProg,Management Program for Alto Golfo Biosphere Reserve implemented.,1995
+evt_CaboPulmoPark,Cabo Pulmo National Park (CPNP) created.,1995
+evt_GSCOperations,Field station operations begin in Golfo de Santa Clara.,1996
+evt_NCNPACreated,National Council of Natural Protected Areas created.,1996
+evt_TEDsMandate,NOM-002-PESC-1996 mandates TEDs in shrimp trawling nets.,1996
+evt_KyotoProtocolSigned,Kyoto Protocol signed.,1997
+evt_FANPEstablished,Fund for Natural Protected Areas (FANP) established.,1997
+evt_ElNinoShrimpIncrease,"An El Niño event occurs, increasing shrimp catches.",1998
+evt_USMortgageInflux,Accelerated US mortgage credit expansion impacts Baja California.,1999
+evt_MexFinDeregulation,Financial deregulation occurs in Mexico.,1999
+evt_FAOShrimpBycatchWS,FAO-sponsored multinational workshops on shrimp bycatch held.,2000
+evt_CONANPEstablished,Comisión Nacional de Áreas Naturales Protegidas (CONANP) established.,2000
+evt_SpectraNetUse,Spectra fishing net material begins to be used.,2000
+evt_VaqPopDecline90s,Vaquita marina population declines significantly in the 1990s.,2000
+evt_BalandraConflict,The Balandra conflict takes place.,2000
+evt_SEMARNATReorgLGEEPA,"SEMARNAT reorganizes, oversees env. zoning; LGEEPA regulation published.",2000
+evt_EspSantoMPAFail,Attempt to implement MPA around Archipelago Espíritu Santo fails.,2000
+evt_LosCabosTurtleProg,Los Cabos launches Marine Turtle Monitoring and Protection Program.,2000
+evt_MexSubsidiesEnd,Subsidies to Mexico's primary sector end.,2000
+evt_CaboLaPazDevBoom,Development 'boom' begins around Cabo and La Paz.,2000
+evt_FAO_ReykDec,FAO releases Declaration of Reykjavik on responsible fisheries.,2001
+evt_CO_Urban,Coastal oases in BCS urbanize with agroindustry and foreign retirees.,2001
+evt_SO_Disappear,Smaller oases disappear due to abandonment or water diversion.,2001
+evt_WSSD_Fish,"World Summit on Sustainable Development held, promoting ecosystem-based fisheries.",2002
+evt_NRC_FishWshop,NRC holds international workshop on fishing effects on ecosystem.,2002
+evt_CTDMO_EnvSci,CTDMO launches program for environmental culture and science.,2002
+evt_ENP_Start,Escalera Nautica project starts.,2003
+evt_AlCosta_ENP,Al Costa alliance created to monitor Escalera Nautica project.,2003
+evt_SEMARNAT_Oasis,SEMARNAT analyzes oasis ecosystems in PBC.,2003
+evt_INAPESCA_WWF_Suri,INAPESCA and WWF develop suripera net to replace gillnets.,2004
+evt_ENP_FundImpl,Escalera Nautica project receives funding and begins implementation.,2005
+evt_GoC_UNESCO,Gulf of California declared UNESCO Natural World Heritage Site.,2005
+evt_Watton_GoC_Disc,Watton family discovers and commits to protecting Gulf of California.,2005
+evt_GoC_SardineMax,Record sardine catch in Eastern Gulf of California.,2006
+evt_SNIEG_Const,Constitutional reform establishes National System of Statistical and Geographical Information (SNIEG).,2006
+evt_GoC_MEZP_Impl,First Marine Ecological Zoning Program for Gulf of California implemented.,2006
+evt_BCS_WaterRed,BCS water extraction programmed for reduction.,2006
+evt_SDV_Irrig,Low localized irrigation use in Santo Domingo Valley.,2006
+evt_RIDISOS_Form,RIDISOS network formed to research Sudcalifornian oases.,2006
+evt_ENP_Emerges,Escalera Náutica project emerges under Fox's government.,2006
+evt_PROFEPA_RHPTM,PROFEPA accredits RHPTM as Mexico's largest participatory surveillance committee.,2006
+evt_WFF_GoC_Env,Watton Family Foundation begins environmental work in Gulf of California.,2006
+evt_GlobalCrisis_Start,Global economic crisis begins.,2007
+evt_CIMARES_Created,Intersecretarial Commission for Sustainable Management of Seas and Coasts (CIMARES) created.,2008
+evt_CPNP_AuthEst,New park authority established for Cabo Pulmo National Park.,2008
+evt_GFC_ENP_Disapp,"Global financial crisis hits, Escalera Nautica project disappears.",2008
+evt_WWF_FCS_Alliance,WWF-Carlos Slim Foundation Alliance (Alianza WWF-FCS) established.,2009
+evt_COBI_SensorNet,COBI begins marine environmental monitoring sensor network.,2009
+evt_VaquitaFriendly_Cert,"Alianza WWF-FCS and Pronatura implement ""Vaquita-Friendly"" fish certification.",2010
+evt_OECD_BLI,OECD Better Life Index created.,2010
+evt_VMS_IndFish,Satellite tracking (VMS) introduced for industrial fishing vessels.,2010
+evt_WFF_MexicoGrants,Watton Family Foundation begins initial grant-making portfolio in Mexico.,2010
+evt_EDF_ShrimpExit,EDF transitions out of Sinaloa shrimp fisheries work.,2010
+evt_LC_LandConflict,Land tenure conflicts escalate in Los Comondú due to ejido boundaries and drought.,2010
+evt_LC_OrchardDecline,"Los Comondú's orchards decline, traditional knowledge lost.",2010
+evt_BCS_PopCensus,"Population census data for BCS cities (Cabo Pulmo, Loreto, La Paz).",2010
+evt_WFF_SustSeafood,WFF promotes market leverage for sustainable seafood.,2010
+evt_WFF_Smartfish,"WFF supports Smartfish's ""Value Rescue Model"" for fishermen.",2010
+evt_WFF_FishCommCap,WFF invests in capacity building for fishing communities.,2010
+evt_ITFE,Illegal totoaba fishing exploded due to market demand in China following the collapse of the Bahaba fishery.,2013
+evt_MGIC,"The Mexican government implemented a strategy to show its commitment, including expanding the protected area, providing economic compensation, reinforcing surveillance, and promoting alternative fishing gear. A temporary suspension of gillnet fishing was included.",2015
+evt_ITDNSM,"The illegal totoaba trade was declared a national security matter in Mexico, involving CISEN.",2015
+evt_USMGBCV,"The US and Mexican governments announced strengthened bilateral cooperation to protect the vaquita, although the illegal totoaba trade increased that same year.",2016
+evt_GNRPL,"The multi-institutional Ghost Net Removal Program of the Upper Gulf of California is launched by the Mexican government, Sea Shepherd Conservation Society (SSCS), and WWF, involving 17 organizations.",2016
+evt_CMUSTMTT,"China, Mexico, and the US held their first trilateral meeting in Ensenada, Mexico, to combat totoaba trafficking and demand. They agreed to strengthen information sharing and signed a memorandum of understanding.",2017
+evt_PAGCWHID,The Protected Areas of the Gulf of California are listed by UNESCO as World Heritage in Danger.,2019
+evt_CIFGNS,Conflicts related to illegal fishing emerge. Tons of ghost nets stored for recycling were stolen from private facilities.,2019
+evt_DMLPNY,"A significant decrease in the mean trophic level is observed in the northern Peninsula of Yucatan, interpreted as a potential ecosystem risk. (top predators are removed)",2011
+evt_EGCLDF,The Eastern Gulf of California has the lowest proportion of deteriorated fisheries (over-fishing) and the highest proportion of developing fisheries.,2011
+evt_BPEPC,"The book ""Efectos de la pesca de arrastre en el Golfo de California"" is published, a product of investigations focused on the impacts of shrimp trawl fishing in the Gulf of California. A target year is set for closing areas seasonally to protect breeding grounds and establishing a representative network of marine protected areas.",2012
+evt_UNDOSSD,The UN proclaims the Decade of Ocean Science for Sustainable Development (2021–2030) to ensure ocean science supports countries in achieving the Sustainable Development Goals (SDGs) of the 2030 Agenda.,2017
+evt_HLPSOE,"The High-Level Panel for a Sustainable Ocean Economy (HLP) is formed, initiated by the Government of Norway, to catalyze and support solutions for ocean health and wealth. Mexico becomes a member of this Panel.",2018
+evt_PROBLUE,"PROBLUE, a World Bank program supporting integrated, sustainable, and healthy marine and coastal resource development, is launched.",2018
+evt_COIL,"The Clean Oceans Initiative is launched by the European Investment Bank, AFD, and KfW, aiming to finance €2 billion in projects to prevent plastic waste from reaching rivers or seas.",2018
+evt_HOBCS,"Hurricane Odile: A natural disaster strikes BCS, leading to widespread looting in urban centers and a two-year recovery period for basic infrastructure and business revenue to return to previous levels. This event highlights the vulnerability of the region and the challenges in post-disaster recovery.",2014
+evt_ASAESD,ASA (Alianza para la Seguridad Alimentaria de Baja California Sur) is initially established but becomes dormant as it doesn't fulfill its initial mission.,2015
+evt_CPMWMB,"The COVID-19 pandemic triggers a new wave of migration to Baja California, particularly La Paz and Los Cabos, as people take advantage of remote work opportunities. This includes significant numbers of Americans, Canadians, and Mexicans seeking permanent or temporary residency.",2019
+evt_MRSBCS,"Migration routes shift, with migrants increasingly traveling through Baja California Sur to avoid more complex areas in Sonora and Sinaloa, inadvertently drawing organized crime further south.",2019
+evt_CWAI,"Challenges with water availability intensify, partly due to aquifer overexploitation for agriculture and population growth, and the diminished flow of the Colorado River affecting the ecosystem.",2019
+evt_EDFRC,"Environmental Defense Fund (EDF) is brought into the region. EDF helps change the narrative around fisheries versus conservation and facilitates dialogue by hosting annual summits on fisheries (initially focused on catch shares, later shifting to sustainable fisheries). This creates a space for previously polarized NGOs, fisheries, and development sectors to communicate.",2012
+evt_ICPSEA,"The Impacto Colectivo platform for sustainable fisheries and aquaculture is likely created, providing a space for different actors to collaborate.",2014
+evt_OCITFP,"Organized crime's involvement in the Totoaba fishery in the upper Gulf of California peaks, marking a significant increase in criminal organizations working in this sector. This activity later spreads to other fisheries.",2015
+evt_MGDFSF,"The Mexican government decides to stop all fisheries subsidies previously given through intermediaries (cooperatives, etc.) and instead gives them directly to individual fishermen.",2019
+evt_CPCSM,"COVID-19 Pandemic Causes shifts in markets, making it difficult for fishermen to sell perishable products as people reduced visits to supermarkets. However, its impact on the ""transition ecosystem"" is seen as less significant than government changes.",2019
+evt_SAGARPAGCF,SAGARPA began regulating a portion of the Gulf curvina fishery's production through a Rights-Based Management (RBM) system. This included setting an annual Total Allowable Catch (TAC) or quota based on INAPESCA's stock assessments.,2012
+evt_PLIMSC,Pacific Lobster (Isla de la Natividad) achieved MSC certification.,2013
+evt_SAILCLFL,"Senator Aarón Irízar López (PRI-Sinaloa) introduced legislation to include a formal definition of ""catch limit"" in fisheries law, which passed in the Senate.",2016
+evt_PAMSLC,"The ""Paredones Amarillos"" mining conflict in the Sierra de la Laguna intensifies. An attempt to build an open-pit mine in this crucial water source area sparks strong resistance, mobilizing not just CSOs but also broader communities against this type of development. This is highlighted as a significant moment of conflict and societal organization.",2012
+evt_CONANPEES,"CONANP conducts the ""Ecological Evaluation Sheets of Natural Protected Areas of Northwest Mexico,"" evaluating 14 ANPs and 2 Ramsar sites.",2013
+evt_APCSUTMB,"The ""Action Plan for the Conservation and Sustainable Use of Terrestrial and Marine Biodiversity in the Gulf of California and South Baja California Pacific Region"" is developed, identifying legal and policy instruments for 140 priority sites.",2013
+evt_PANGASIPO,"The PANGAS interdisciplinary project operates, focused on an ecosystem-based research and management framework for small-scale fisheries in the Northern Gulf of California.",2015
+evt_ALCOSTAPO,"ALCOSTA (Alliance for the Sustainability of the Mexican Coastal Northwest), an alliance of 22 CSOs, operates to influence public policy.",2018
+evt_CSSDIP,"Comprehensive Strategies Stage: Development and implementation of plans and strategies from various perspectives (insular territory, cooperative system). Ecosytemic approaches are emphasized, with greater attention to coastal communities.",2018
+evt_BIOMARP,"The BioMar program operates with objectives related to ANP networks, successful conservation models, ecosystem connectivity and resilience, and coordination among actors.",2018
+evt_PPCSOM,"Programa Pescadero operates, focusing on strengthening the capacities of CSOs in northwest Mexico.",2018
+evt_GPETBCP,"The government implements programs like the Temporary Employment Program (PET), which pays orchard owners to clean their own orchards, a controversial initiative viewed by some locals as dishonest given the owners' absence. All Baja California peninsula oases are at risk of disappearing without efficient intervention.",2014
+evt_CTSRRD,"Conflict erupts between Todos Santos residents and real estate developers when infrastructure construction begins in the beach area and on a small wetland. This alters sediment dynamics, causing rapid beach erosion (approx. 30 meters lost).",2015
+evt_BWSTSEP,"The blocking of water and sediment supplies by Tres Santos's engineering work continues to disrupt the natural dynamics of the Punta Lobos ecosystem, leading to systematic loss of balance between sediment deposition and transport. The conflict continues to generate public rejection and confrontation.",2016
+evt_GTCSFBTM,"The GTC faces a severe crisis due to a shark fishing ban, leading to increased turtle mortality in the Gulf of Ulloa and conflict in López Mateos.",2012
+evt_ASAPIS,"The Alianza de Seguridad Alimentaria (ASA) project informally starts, emerging out of ICF, to address food security concerns around Cabo and La Paz.",2014
+evt_HOSTRVS,"Hurricane Odile strikes the region, revealing severe vulnerabilities in infrastructure, social stability, and food security. This event serves as a significant milestone, opening people's eyes to the impact of hurricanes and leading to community insecurity and general chaos.",2015

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "niche_GEAM",
+      "type": "Niche",
+      "description": "'Guardia Ecológica' (Audience/Mindset) (significant audience segment in Baja California Sur embodies alternative behaviors and values, prioritizing environmental sustainability, nature tourism, and advocating for stricter environmental regulations)"
+    },
+    {
+      "id": "niche_NFCCSO",
+      "type": "Niche",
+      "description": "New Forms of Collaboration among Civil Society Organizations (CSOs) (alternative approach to collective action within civil society, moving towards deeper and more integrated collaborations)"
+    },
+    {
+      "id": "niche_CSM",
+      "type": "Niche",
+      "description": "Colectivo Sierra Mar (embodies a new form of cross-system collaboration aimed at generating synergies for regional sustainability across land and water systems)"
+    },
+    {
+      "id": "niche_PMIMP",
+      "type": "Niche",
+      "description": "Participatory Mining Impact Mitigation Projects (collaborative projects between communities, experts, and mining companies to assess and mitigate the negative impacts of mining)"
+    },
+    {
+      "id": "niche_ASA_ORG_PROG",
+      "type": "Niche",
+      "description": "ASA Alimentaria (Organization and Programs) (organization that actively promotes systemic change in the food system of Baja California Sur towards being just, resilient, and healthy, by developing programs like agroecological transitions and food resilience)"
+    }
+  ],
+  "edges": [
+    {
+      "from": "niche_NFCCSO",
+      "to": "niche_PMIMP",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_CSM",
+      "to": "niche_GEAM",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_CSM",
+      "to": "niche_NFCCSO",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_CSM",
+      "to": "niche_PMIMP",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_ASA_ORG_PROG",
+      "to": "niche_CSM",
+      "relationship_type": "similar_to"
+    },
+    {
+      "from": "niche_ASA_ORG_PROG",
+      "to": "niche_NFCCSO",
+      "relationship_type": "similar_to"
+    }
+  ]
+}
