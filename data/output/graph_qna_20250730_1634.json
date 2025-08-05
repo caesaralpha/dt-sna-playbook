@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": "evt_CaboPulmoPark",
+      "type": "Event",
+      "description": "Cabo Pulmo National Park (CPNP) created."
+    },
+    {
+      "id": "1995",
+      "type": "Year",
+      "description": "1995"
+    },
+    {
+      "id": "TO.01",
+      "type": "TO",
+      "description": "Protection"
+    },
+    {
+      "id": "TO.08",
+      "type": "TO",
+      "description": "Institutionalization"
+    },
+    {
+      "id": "TO.15",
+      "type": "TO",
+      "description": "Establishing acceptable limits"
+    },
+    {
+      "id": "niche_MPAFCI",
+      "type": "Niche",
+      "description": "Marine Protected Areas with Fishing Community Inclusion (new wave of environmental conservation that integrates the interests of fishing communities)"
+    },
+    {
+      "id": "niche_BC_GA",
+      "type": "Niche",
+      "description": "Biodiversity Conservation (as a guiding approach) (deliberate focus and guiding principle for action that promotes alternative rules for how various systems interact with natural capital)"
+    },
+    {
+      "id": "niche_EINGO",
+      "type": "Niche",
+      "description": "Early International NGOs (Wildlife Fund, Conservation International, The Nature Conservancy) (initiated a new wave of environmental movements in the region, introducing science-driven, top-down conservation approaches)"
+    },
+    {
+      "id": "niche_RLNGO",
+      "type": "Niche",
+      "description": "Rise of Local NGOs (Promatura, Comuneabia, diversidad, Niparaja) (emerged as alternative actors, complementing larger international efforts and developing a local base for promoting new environmental practices)"
+    },
+    {
+      "id": "evt_GoC_UNESCO",
+      "type": "Event",
+      "description": "Gulf of California declared UNESCO Natural World Heritage Site."
+    },
+    {
+      "id": "2005",
+      "type": "Year",
+      "description": "2005"
+    },
+    {
+      "id": "TO.07",
+      "type": "TO",
+      "description": "Anchoring"
+    },
+    {
+      "id": "evt_APCSUTMB",
+      "type": "Event",
+      "description": "The \"Action Plan for the Conservation and Sustainable Use of Terrestrial and Marine Biodiversity in the Gulf of California and South Baja California Pacific Region\" is developed, identifying legal and policy instruments for 140 priority sites."
+    },
+    {
+      "id": "2013",
+      "type": "Year",
+      "description": "2013"
+    },
+    {
+      "id": "TO.02",
+      "type": "TO",
+      "description": "Learning"
+    },
+    {
+      "id": "niche_SOE",
+      "type": "Niche",
+      "description": "Sustainable Ocean Economy (macro-level alternative approach and a new set of rules for managing ocean resources)"
+    },
+    {
+      "id": "niche_OHP",
+      "type": "Niche",
+      "description": "Ocean Health Platform (new organizational model and collaborative space for actors dedicated to ocean health)"
+    },
+    {
+      "id": "niche_MESPPGC",
+      "type": "Niche",
+      "description": "The Marine Ecological Spatial Planning Program for the Gulf of California (new, overarching approach and framework for managing the Gulf's resources)"
+    },
+    {
+      "id": "niche_EBFMA",
+      "type": "Niche",
+      "description": "Ecosystem-Based Fisheries Management (EBFM) Approach (significant alternative approach and rule-set for fisheries governance)"
+    }
+  ],
+  "edges": [
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "1995",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "TO.01",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "niche_MPAFCI",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "niche_BC_GA",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "niche_EINGO",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_CaboPulmoPark",
+      "to": "niche_RLNGO",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "2005",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "TO.01",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "niche_BC_GA",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_GoC_UNESCO",
+      "to": "niche_MPAFCI",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "2013",
+      "relationship_type": "happened_in"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "TO.01",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "TO.02",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "TO.07",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "TO.08",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "TO.15",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_BC_GA",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_SOE",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_OHP",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_MESPPGC",
+      "relationship_type": "related_to"
+    },
+    {
+      "from": "evt_APCSUTMB",
+      "to": "niche_EBFMA",
+      "relationship_type": "related_to"
+    }
+  ]
+}

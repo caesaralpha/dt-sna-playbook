@@ -1,99 +1,93 @@
-regime_rule,id
-Prioritize upstream water storage and regulated allocation.,regime_CRWM_UpstreamStorage
-Utilize large-scale infrastructure (dams) for water control and management.,regime_CRWM_DamsControl
-Engage in the extraction of shrimp for economic purposes.,regime_SF_EconomicExtraction
-Depend on the fishery resource for livelihoods and economic activity.,regime_SF_LivelihoodDependence
-Maintain traditional practices and ways of life associated with the fishery.,regime_SF_TraditionalPractices
-Manage fisheries based on the diagnosis of resource status.,regime_MFR_ResourceDiagnosis
-Implement regulations and norms established in the National Fishing Charter.,regime_MFR_NationalFishingCharter
-"Evaluate the state of fisheries resources using specific, multidimensional assessment criteria.",regime_MFR_MultiAssessmentCriteria
-Classify the status of fisheries based on predefined categories related to exploitation levels.,regime_MFR_ExploitationClassification
-Conduct scientific assessments primarily by analyzing historical catch and fishing effort data.,regime_MFR_HistoricalDataAnalysis
-"Involve specialized scientific bodies and experts, such as those from INAPESCA, in research and validation.",regime_MFR_ScientificBodyInvolvement
-Operate within the established dichotomy of artisanal and industrial fishing sectors.,regime_MFR_ArtisanalIndustrialDichotomy
-Focus fishing efforts on the commercial exploitation of marine resources.,regime_MFR_CommercialExploitationFocus
-Utilise bottom trawling as the primary fishing technology for peneid shrimps.,regime_SF2D_BottomTrawling
-Employ scientific methodologies such as Catch Per Unit Effort (CPUE) and biomass dynamic models for fishery analysis and assessment.,regime_SF2D_CPUEBiomassModels
-Apply statistical methods for data analysis within the fishery assessment process.,regime_SF2D_StatisticalAnalysis
-"Conduct commercial fishing operations targeting profitable species, specifically peneid shrimps, as a significant fishery.",regime_SF2D_ProfitableSpeciesTargeting
-Use fishery data and analysis (like CPUE) to inform operational or strategic assessments of the fishing business.,regime_SF2D_DataInformedBusiness
-Establish and propose fisheries management frameworks and regulations for the shrimp fishery.,regime_SF2D_ManagementFrameworks
-"Consider implementing specific regulations, such as catch quotas for target species like blue shrimp, to manage the fishery.",regime_SF2D_CatchQuotas
-"Supply peneid shrimps (e.g., blue shrimp) to markets based on existing consumer demand and preferences.",regime_SF2D_MarketSupply
-Insufficient coordination within the Federal Public Administration regarding the ocean economy.,regime_OER_InsufficientCoordination
-National policies and actions are not fully aligned with global sustainability frameworks.,regime_OER_UnalignedGlobalPolicies
-Governance frameworks insufficiently address environmental and social challenges in the ocean economy.,regime_OER_InsufficientGovChallenges
-Business models and industry strategies prioritize economic activities in the ocean sector without fully internalizing environmental or social costs.,regime_OER_EconomicPriorityNoCost
-The application of science and technology within the ocean economy regime is not primarily directed towards sustainability.,regime_OER_TechNotSustainable
-User preferences and market structures support unsustainable ocean-related activities and products.,regime_OER_UnsustainableMarketSupport
-Cultural perceptions and norms do not sufficiently prioritize the long-term health and sustainability of ocean ecosystems.,regime_OER_CultureNoSustainability
-Prioritize the development and application of technologies for large-scale exploitation of specific marine species.,regime_IF_LargeScaleExploitationTech
-Base business models on maximizing volume and profit from targeted marine resources.,regime_IF_MaxVolumeProfit
-"Permit industrial fishing operations that, while productive, can lead to competition and environmental pressure on shared marine resources.",regime_IF_PermitPressureOps
-"Maintain demand for specific marine products, driving industrial-scale extraction.",regime_IF_MaintainProductDemand
-"Prioritize economic production from marine resources, often without fully integrating long-term environmental sustainability.",regime_IF_EconomicProdNoSustainability
-Utilize knowledge of coastal ecosystems and local fishing grounds to target a variety of species.,regime_CF_CoastalEcoKnowledge
-"Operate based on economic activities tied to local coastal resources, contributing to localized pressures.",regime_CF_LocalResourceEconomy
-"Allow coastal fishing practices that may lead to localized conflicts and environmental pressures, necessitating new planning efforts.",regime_CF_AllowLocalPressures
-Local and regional demand for diverse coastal seafood supports these fishing practices.,regime_CF_LocalSeafoodDemand
-"Perpetuate established communal or individual practices of resource extraction in coastal areas, which may contribute to ecosystem strain.",regime_CF_PerpetuateExtractionPractices
-Develop and apply knowledge to identify and enhance natural marine attractions and build supporting infrastructure for tourist activities.,regime_T2F_MarineAttractionDev
-Generate revenue through the provision of services and infrastructure that capitalize on marine and coastal amenities.,regime_T2F_RevenueFromAmenities
-"Facilitate the expansion of tourism infrastructure and activities, contributing to environmental pressures and potential conflicts.",regime_T2F_FacilitateExpansion
-Demand for recreational and leisure activities in marine environments drives the tourism industry's growth.,regime_T2F_MarineLeisureDemand
-"Foster a culture that values economic development through tourism, sometimes at the expense of ecological integrity.",regime_T2F_CultureEconomicTourism
-Apply controlled biological and engineering methods for the cultivation of aquatic organisms.,regime_AQ2F_CultivationMethods
-Develop commercial ventures for the controlled production and sale of aquatic species.,regime_AQ2F_CommercialProduction
-"Regulate aquaculture in a way that permits its operation and expansion, potentially leading to environmental impacts.",regime_AQ2F_RegulateExpansion
-Market demand for farmed aquatic products drives the growth and practices of the aquaculture sector.,regime_AQ2F_MarketDrivenGrowth
-Promote the belief in controlled food production from aquatic environments as a viable and desirable means to satisfy societal needs.,regime_AQ2F_CultureControlledFood
-Focus on research and development to maximize catch volume and fishing efficiency.,regime_F2G_MaxCatchEfficiency
-Prioritize economic returns and market share through high-volume extraction and sale of marine resources.,regime_F2G_EconomicReturns
-"Enact policies and regulations that primarily support and promote fishing production and economic growth, with less emphasis on integrated ecological planning.",regime_F2G_ProdGrowthPolicies
-"Operate with an expectation of readily available and abundant marine products driven by consumer demand, without strong mechanisms to influence consumption based on ecological limits.",regime_F2G_AbundantProductExpectation
-"Culturally prioritize the exploitation of marine resources for economic benefit and livelihoods, often assuming inherent resilience or limitless availability.",regime_F2G_CultureExploitationPriority
-Direct scientific and technological development towards enhancing tourism infrastructure and services to attract more visitors and maximize convenience.,regime_T2G_EnhanceTourismTech
-"Focus tourism businesses on maximizing visitor numbers and revenue, often externalizing environmental costs.",regime_T2G_MaxVisitorRevenue
-"Formulate policies that primarily stimulate tourism development and economic returns, with less emphasis on comprehensive ecological spatial planning.",regime_T2G_StimulateTourismPolicies
-"Consumers expect unfettered access to natural attractions and recreational opportunities, often without a strong awareness or responsibility for their environmental impact.",regime_T2G_UnfetteredAccess
-"Promote a societal narrative that tourism growth is a fundamental driver of regional prosperity, potentially overlooking or downplaying its environmental consequences.",regime_T2G_CultureTourismProsperity
-Invest in scientific research and technologies aimed at intensive aquaculture production to increase yields and profitability.,regime_AQ2G_IntensiveProdTech
-Operate aquaculture businesses with a primary focus on large-scale commercial production to meet market demand and generate economic returns.,regime_AQ2G_LargeScaleCommercial
-"Implement policies that primarily support the expansion and economic viability of aquaculture, with less emphasis on integrated environmental planning or strict ecological safeguards.",regime_AQ2G_ExpandAquaculturePolicies
-"Consumers expect widely available and affordable aquaculture products, driving demand for efficient, high-volume production methods.",regime_AQ2G_AffordableProductsDemand
-"View aquaculture primarily as a valuable economic opportunity and a means of food production, without widespread cultural emphasis on its long-term ecological footprint.",regime_AQ2G_CultureEconomicFood
-"Rely on specific types of gillnets (e.g., chinchorro de línea, fixed bottom gillnets, surface gillnets) as the primary technology for capturing economically valuable species like shrimp, chano, curvina golfina, and sierra.",regime_TGLL_GillnetReliance
-"Utilize longlines and handlines for the capture of larger marine species, specifically sharks and rays.",regime_TGLL_LonglineHandline
-"Prioritize fishing for species based on their high economic value, with shrimp and chano being particularly significant contributors to the total catch value.",regime_TGLL_EconomicValuePriority
-"Operate fishing activities according to established temporal routines, including day, night, or mixed operations, influenced by the seasonal cycles of marine species.",regime_TGLL_TemporalRoutines
-"Historically, allow and regulate the widespread use of gillnet and longline fishing practices in the Upper Gulf of California.",regime_TGLL_HistoricalRegulation
-Adhere to established fishing practices focused on traditional target species for which there is a consistent market demand.,regime_TGLL_TraditionalTargetSpecies
-"Maintain traditional or artisanal fishing techniques where applicable, such as the 'encierro artesanal' system for certain species.",regime_TGLL_ArtisanalTechniques
-Accept and rely on the economic dominance of gillnet and longline fishing as central to the region's livelihood.,regime_TGLL_EconomicDominance
-Manage fisheries through established regulatory frameworks and national charts.,regime_FSF2K_RegulatoryFrameworks
-Regulate catch based on minimum size limits and other biological indicators defined by official documents.,regime_FSF2K_SizeLimitsBioIndicators
-"Promote good fishing practices, particularly to maintain market-driven eco-certifications.",regime_FSF2K_EcoCertifications
-Focus on high-volume extraction of commercially important species that yield the largest catches.,regime_FSF2K_HighVolumeExtraction
-Prioritize fishing efforts in accessible coastal areas and known productive zones.,regime_FSF2K_CoastalFishingPriority
-Base resource knowledge and exploitation on existing data and traditional survey methods.,regime_FSF2K_TraditionalSurveyMethods
-Acknowledge fish stock variability as an inherent natural phenomenon influenced by environmental changes.,regime_FSF2K_StockVariabilityAcknowledgement
-Consumer and market demand dictates the primary focus on commercially valuable species.,regime_FSF2K_MarketDemandFocus
-Adhere to the established practice of operating within 'traditional fishing zones'.,regime_FSF2K_TraditionalFishingZones
-Focus on maximizing capture efficiency through traditional large-scale trawling technology.,regime_STFM_MaxCaptureEfficiency
-"Reliance on heavy, less selective trawling gear and materials.",regime_STFM_HeavyNonSelectiveGear
-Insufficient integration of bycatch reduction in inherent net design.,regime_STFM_InsufficientBycatchReduction
-Prioritization of maximizing total catch volume over sustainable resource management.,regime_STFM_MaxCatchVolPriority
-"Practice of discarding bycatch at sea due to low market value, high volume, and processing challenges.",regime_STFM_DiscardBycatch
-"Centralized market distribution with limited supporting infrastructure (e.g., cold chain).",regime_STFM_LimitedColdChain
-"Dominance of intermediaries in the value chain, leading to the decapitalization of producers.",regime_STFM_IntermediaryDominance
-De facto open access to fishing resources ('Tragedy of the Commons').,regime_STFM_OpenAccessResources
-Reactive and fragmented regulatory framework with limited enforcement effectiveness.,regime_STFM_FragmentedRegulation
-Inadequate legal and social protection for fishing labor.,regime_STFM_InadequateLaborProtection
-"Resistance to the adoption of new, more sustainable fishing technologies by some fishermen.",regime_STFM_TechAdoptionResistance
-Consumer and market demand for shrimp without strong consideration for bycatch or environmental impact.,regime_STFM_MarketDemandNoEnvImpact
-Perception that environmental concerns regarding trawling are exaggerated or driven by external interests.,regime_STFM_TrawlingConcernsPerception
-Entrenched acceptance of traditional trawling as the standard method.,regime_STFM_EntrenchedTrawlingAcceptance
-Prioritize economic exploitation and short-term productive activities over long-term ecological conservation and social equity in ocean resource management.,regime_IOER_EconExploitOverConservation
-Adhere to international environmental conventions and agreements without fully embedding their objectives into comprehensive national ocean management practices.,regime_IOER_InternationalConventionAdherence
-Focus on maximizing productive output and economic growth in ocean-related sectors without adequate consideration for long-term ecological sustainability or broad social impacts.,regime_IOER_MaxProdNoSustainability
-"Perceive ocean resources predominantly as commodities for human exploitation and consumption, with insufficient societal value placed on intrinsic ecosystem health or equitable access to benefits.",regime_IOER_OceanAsCommodity
+id,regime_rule
+regime_CRWMS_PrioritizeUpstreamStorage,Prioritize upstream water storage and regulated allocation in the Colorado River system.
+regime_CRWMS_UtilizeLargeScaleInfra,Utilize large-scale infrastructure (dams) for Colorado River water control and management.
+regime_SFR_ShrimpExtractionEco,Engage in the extraction of shrimp for economic purposes in the Upper Gulf.
+regime_SFR_LivelihoodDependence,Depend on the shrimp fishery resource for livelihoods and economic activity in local communities.
+regime_SFR_MaintainTraditionalPractices,Maintain traditional practices and ways of life associated with the shrimp fishery.
+regime_MFR_ResourceStatusDiagnosis,Manage Mexican fisheries based on the diagnosis of resource status provided by institutions like INAPESCA.
+regime_MFR_NationalFishingCharter,Implement regulations and norms established in the National Fishing Charter for Mexican fisheries.
+regime_MFR_MultidimensionalCriteria,"Evaluate the state of Mexican fisheries resources using specific, multidimensional assessment criteria (biological, fishing, social, economic, management)."
+regime_MFR_ExploitationLevelClassification,"Classify the status of Mexican fisheries based on predefined categories related to exploitation levels (e.g., sustainable, overexploited)."
+regime_MFR_HistoricalDataAssessment,Conduct scientific assessments for Mexican fisheries primarily by analyzing historical catch and fishing effort data.
+regime_MFR_SpecializedScientificBodies,"Involve specialized scientific bodies and experts (e.g., INAPESCA) in Mexican fisheries research and validation."
+regime_MFR_ArtisanalIndustrialDichotomy,Operate within the established dichotomy of artisanal and industrial fishing sectors in Mexican fisheries.
+regime_MFR_CommercialExploitationFocus,Focus Mexican fishing efforts on the commercial exploitation of marine resources.
+regime_PSF_BottomTrawling,Utilise bottom trawling as the primary fishing technology for peneid shrimps.
+regime_PSF_CPUEBiomassModels,Employ CPUE and biomass dynamic models for peneid shrimp fishery analysis and assessment.
+regime_PSF_StatisticalDataAnalysis,Apply statistical methods for data analysis within the peneid shrimp fishery assessment process.
+regime_PSF_CommercialPeneidTargeting,Conduct commercial fishing operations targeting profitable peneid shrimps as a significant fishery.
+regime_PSF_CPUEBusinessAssessment,Use fishery data and analysis (like CPUE) to inform operational/strategic assessments of the peneid shrimp fishing business.
+regime_PSF_ManagementFrameworks,Establish and propose fisheries management frameworks and regulations for the peneid shrimp fishery.
+regime_PSF_CatchQuotaConsideration,"Consider implementing specific regulations, such as catch quotas for blue shrimp, to manage the peneid shrimp fishery."
+regime_PSF_PeneidSupplyToMarkets,"Supply peneid shrimps (e.g., blue shrimp) to markets based on existing consumer demand and preferences."
+regime_IF_LargeScaleTechPrioritization,Prioritize the development and application of technologies for large-scale exploitation of specific marine species in Industrial Fishing.
+regime_IF_MaximizeVolumeProfit,Base Industrial Fishing business models on maximizing volume and profit from targeted marine resources.
+regime_IF_PermitPressureOperations,Permit industrial fishing operations that lead to competition and environmental pressure on shared marine resources.
+regime_IF_MaintainIndustrialDemand,"Maintain demand for specific marine products, driving industrial-scale extraction."
+regime_IF_PrioritizeEconomicProdNoSustainability,"Prioritize economic production from marine resources, often without fully integrating long-term environmental sustainability in Industrial Fishing."
+regime_CF_UtilizeLocalKnowledge,Utilize knowledge of coastal ecosystems and local fishing grounds to target a variety of species in Coastal Fishing.
+regime_CF_LocalResourceEconomicActivity,"Operate Coastal Fishing based on economic activities tied to local coastal resources, contributing to localized pressures."
+regime_CF_AllowLocalizedPressurePractices,Allow coastal fishing practices that may lead to localized conflicts and environmental pressures.
+regime_CF_LocalSeafoodDemand,Local and regional demand for diverse coastal seafood supports Coastal Fishing practices.
+regime_CF_PerpetuateCoastalExtractionPractices,Perpetuate established communal or individual practices of resource extraction in coastal areas.
+regime_TOUR_EnhanceMarineAttractions,Develop and apply knowledge to identify/enhance natural marine attractions and build supporting infrastructure for tourism.
+regime_TOUR_GenerateRevenueMarineAmenities,Generate revenue through provision of services and infrastructure capitalizing on marine/coastal amenities for tourism.
+regime_TOUR_FacilitateExpansionEnvPressure,"Facilitate the expansion of tourism infrastructure and activities, contributing to environmental pressures and potential conflicts."
+regime_TOUR_RecreationalDemandDrivenGrowth,Demand for recreational and leisure activities in marine environments drives tourism industry growth.
+regime_TOUR_CultureEconomicDevVsEcology,"Foster a culture that values economic development through tourism, sometimes at the expense of ecological integrity."
+regime_AQUA_ControlledCultivationMethods,Apply controlled biological and engineering methods for the cultivation of aquatic organisms in aquaculture.
+regime_AQUA_CommercialProductionVentures,Develop commercial ventures for the controlled production and sale of aquatic species in aquaculture.
+regime_AQUA_RegulateOperationExpansion,"Regulate aquaculture to permit its operation and expansion, potentially leading to environmental impacts."
+regime_AQUA_MarketDemandDrivenGrowth,Market demand for farmed aquatic products drives aquaculture sector growth and practices.
+regime_AQUA_CultureControlledFoodProduction,Promote the belief in controlled food production from aquatic environments as a viable and desirable means to satisfy societal needs.
+regime_FF_MaximizeCatchEfficiencySciTech,Focus on research and development to maximize catch volume and fishing efficiency in the Fishing/Fisheries sector.
+regime_FF_PrioritizeEconomicReturns,Prioritize economic returns and market share through high-volume extraction and sale of marine resources in the Fishing/Fisheries sector.
+regime_FF_PromoteProductionOverEcologyPolicy,"Enact policies and regulations that primarily support fishing production and economic growth, with less emphasis on integrated ecological planning."
+regime_FF_ExpectAbundantProductsNoEcologicalLimit,"Operate with an expectation of readily available and abundant marine products driven by consumer demand, without strong mechanisms to influence consumption based on ecological limits."
+regime_FF_CultureExploitForEconomicBenefit,"Culturally prioritize the exploitation of marine resources for economic benefit and livelihoods, often assuming inherent resilience or limitless availability."
+regime_TOUR_EnhanceInfrastructureServices,Direct scientific and technological development towards enhancing tourism infrastructure and services to attract more visitors and maximize convenience.
+regime_TOUR_MaximizeVisitorRevenueExternalCosts,"Focus tourism businesses on maximizing visitor numbers and revenue, often externalizing environmental costs."
+regime_TOUR_StimulateDevNoSpatialPlanning,"Formulate policies that primarily stimulate tourism development and economic returns, with less emphasis on comprehensive ecological spatial planning."
+regime_TOUR_UnfetteredAccessNoEnvResponsibility,"Consumers expect unfettered access to natural attractions and recreational opportunities, often without strong awareness or responsibility for their environmental impact."
+regime_TOUR_PromoteGrowthOverEnvConsequences,"Promote a societal narrative that tourism growth is a fundamental driver of regional prosperity, potentially overlooking or downplaying its environmental consequences."
+regime_AQUA_IntensiveProductionSciTech,Invest in scientific research and technologies aimed at intensive aquaculture production to increase yields and profitability.
+regime_AQUA_LargeScaleCommercialProduction,Operate aquaculture businesses with a primary focus on large-scale commercial production to meet market demand and generate economic returns.
+regime_AQUA_SupportExpansionNoEnvSafeguards,"Implement policies that primarily support the expansion and economic viability of aquaculture, with less emphasis on integrated environmental planning or strict ecological safeguards."
+regime_AQUA_ConsumerDemandHighVolumeProduction,"Consumers expect widely available and affordable aquaculture products, driving demand for efficient, high-volume production methods."
+regime_AQUA_CultureEconomicFoodProductionNoFootprint,"View aquaculture primarily as a valuable economic opportunity and a means of food production, without widespread cultural emphasis on its long-term ecological footprint."
+regime_IOER_PrioritizeEconomicOverConservation,Prioritize economic exploitation and short-term productive activities over long-term ecological conservation and social equity in ocean resource management.
+regime_IOER_AdhereInternationalNoFullEmbedding,Adhere to international environmental conventions and agreements without fully embedding their objectives into comprehensive national ocean management practices.
+regime_IOER_MaximizeProductiveOutputNoSustainability,Focus on maximizing productive output and economic growth in ocean-related sectors without adequate consideration for long-term ecological sustainability or broad social impacts.
+regime_IOER_SciTechForExtractionEfficiency,"Apply scientific and technological advancements primarily to increase efficiency in resource extraction and exploitation, rather than for comprehensive sustainable management and conservation of ocean resources."
+regime_IOER_PerceiveOceanAsCommodity,"Perceive ocean resources predominantly as commodities for human exploitation and consumption, with insufficient societal value placed on intrinsic ecosystem health or equitable access to benefits."
+regime_TGLLF_GillnetReliance,Rely on specific types of gillnets as the primary technology for capturing economically valuable species in Alto Golfo fisheries.
+regime_TGLLF_LonglineHandlineUse,Utilize longlines and handlines for the capture of larger marine species (sharks and rays) in Alto Golfo fisheries.
+regime_TGLLF_PrioritizeHighEconomicValue,"Prioritize fishing for species based on their high economic value (e.g., shrimp, chano) in Alto Golfo fisheries."
+regime_TGLLF_EstablishedTemporalRoutines,Operate fishing activities according to established temporal routines influenced by seasonal cycles in Alto Golfo fisheries.
+regime_TGLLF_AllowRegulateGillnetLongline,"Historically, allow and regulate the widespread use of gillnet and longline fishing practices in the Upper Gulf of California."
+regime_TGLLF_AdhereTraditionalMarketPractices,Adhere to established fishing practices focused on traditional target species for consistent market demand in Alto Golfo fisheries.
+regime_TGLLF_MaintainArtisanalTechniques,"Maintain traditional or artisanal fishing techniques (e.g., ""encierro artesanal"") where applicable."
+regime_TGLLF_EconomicDominanceAcceptance,Accept and rely on the economic dominance of gillnet and longline fishing as central to the region's livelihood.
+regime_PFE_ManageByRegulatoryFrameworks,"Manage pelagic fisheries through established regulatory frameworks and national charts (e.g., NOM-003-PESC-1993, CNP)."
+regime_PFE_RegulateByMinimumSize,Regulate pelagic fish catch based on minimum size limits and other biological indicators defined by official documents.
+regime_PFE_PromoteEcoCertifications,"Promote good fishing practices for pelagic fish, particularly to maintain market-driven eco-certifications (e.g., MSC)."
+regime_PFE_HighVolumeCommercialExtraction,"Focus on high-volume extraction of commercially important pelagic species that yield the largest catches (e.g., anchoveta, Monterey sardine)."
+regime_PFE_PrioritizeAccessibleProductiveZones,Prioritize pelagic fishing efforts in accessible coastal areas and known productive zones characterized by high primary production.
+regime_PFE_BaseKnowledgeOnExistingData,Base pelagic fish resource knowledge and exploitation on existing data and traditional survey methods.
+regime_PFE_AcknowledgeStockVariability,Acknowledge pelagic fish stock variability as an inherent natural phenomenon influenced by environmental changes.
+regime_PFE_ConsumerDemandDictatesFocus,Consumer and market demand dictates the primary focus on commercially valuable pelagic species.
+regime_PFE_AdhereTraditionalFishingZones,"Adhere to the established practice of operating within ""traditional fishing zones"" for pelagic fish."
+regime_STFM_MaximizeCaptureEfficiency,Focus on maximizing capture efficiency through traditional large-scale trawling technology in shrimp fisheries.
+regime_STFM_RelianceLessSelectiveGear,"Rely on heavy, less selective trawling gear and materials, contributing to significant seabed impact and high bycatch."
+regime_STFM_InsufficientBycatchReductionNetDesign,"Insufficiently integrate bycatch reduction in inherent net design, despite regulations and external innovations."
+regime_STFM_PrioritizeTotalCatchVolume,Prioritize maximizing total catch volume over sustainable resource management in shrimp trawling.
+regime_STFM_DiscardBycatchAtSea,"Discard bycatch at sea due to low market value, high volume, and processing challenges."
+regime_STFM_CentralizedMarketLimitedInfrastructure,"Operate with centralized market distribution and limited supporting infrastructure (e.g., cold chain) for seafood."
+regime_STFM_IntermediaryDominanceDecapitalization,"Dominance of intermediaries in the value chain, leading to the decapitalization of producers."
+regime_STFM_DeFactoOpenAccess,"Maintain de facto open access to fishing resources (""Tragedy of the Commons""), perpetuating competition and overexploitation."
+regime_STFM_ReactiveFragmentedRegulation,Operate with a reactive and fragmented regulatory framework with limited enforcement effectiveness.
+regime_STFM_InadequateLaborProtection,Provide inadequate legal and social protection for fishing labor within the industry.
+regime_STFM_ResistanceToNewTech,"Exhibit resistance to the adoption of new, more sustainable fishing technologies by some fishermen."
+regime_STFM_ConsumerDemandNoBycatchConsideration,Operate with consumer and market demand for shrimp without strong consideration for bycatch or environmental impact.
+regime_STFM_PerceptionEnvConcernsExaggerated,Hold the perception that environmental concerns regarding trawling are exaggerated or driven by external interests.
+regime_STFM_EntrenchedTrawlingAcceptance,Maintain entrenched acceptance of traditional trawling as the standard method within the industry.

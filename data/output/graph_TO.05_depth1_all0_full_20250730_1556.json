@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "evt_WFF_Smartfish_Model",
+      "type": "Event",
+      "description": "Watton Family Foundation supports Smartfish's 'Value Rescue Model'."
+    },
+    {
+      "id": "evt_WFF_SustSeafood",
+      "type": "Event",
+      "description": "Watton Family Foundation promotes market leverage for sustainable seafood."
+    },
+    {
+      "id": "evt_APS",
+      "type": "Event",
+      "description": "ASA project starts"
+    },
+    {
+      "id": "evt_PLMSC",
+      "type": "Event",
+      "description": "Pacific Lobster MSC certified"
+    },
+    {
+      "id": "evt_FishingCoopInfra",
+      "type": "Event",
+      "description": "Public resources used to build infrastructure for fishing cooperatives on Pacific coast for high-value products."
+    },
+    {
+      "id": "evt_SFNMU",
+      "type": "Event",
+      "description": "Spectra fishing net material begins use."
+    },
+    {
+      "id": "evt_GNRP",
+      "type": "Event",
+      "description": "Ghost Net Removal Program launched"
+    },
+    {
+      "id": "evt_PPNGOC",
+      "type": "Event",
+      "description": "PANGAS project Northern GOC"
+    },
+    {
+      "id": "evt_EscNaut_FundImpl",
+      "type": "Event",
+      "description": "Escalera Nautica project receives funding and begins implementation."
+    },
+    {
+      "id": "TO.05",
+      "type": "TO",
+      "description": "Scaling up"
+    },
+    {
+      "id": "evt_WWF_FCS_Pronatura_Vaquita",
+      "type": "Event",
+      "description": "WWF-FCS & Pronatura Mexico implement strategy for Vaquita-Friendly fish products."
+    },
+    {
+      "id": "evt_PPL",
+      "type": "Event",
+      "description": "PROBLUE program launched"
+    },
+    {
+      "id": "evt_COIL",
+      "type": "Event",
+      "description": "Clean Oceans Initiative launched"
+    }
+  ],
+  "edges": [
+    {
+      "from": "evt_WFF_Smartfish_Model",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WFF_Smartfish_Model",
+      "to": "evt_WFF_SustSeafood",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_WFF_SustSeafood",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WFF_SustSeafood",
+      "to": "evt_WFF_Smartfish_Model",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_WFF_SustSeafood",
+      "to": "evt_WWF_FCS_Pronatura_Vaquita",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_APS",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_PLMSC",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_FishingCoopInfra",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_SFNMU",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GNRP",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_GNRP",
+      "to": "evt_PPL",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_PPNGOC",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_EscNaut_FundImpl",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WWF_FCS_Pronatura_Vaquita",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_WWF_FCS_Pronatura_Vaquita",
+      "to": "evt_WFF_SustSeafood",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_PPL",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "TO.05",
+      "relationship_type": "part_of"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "evt_GNRP",
+      "relationship_type": "connected_to"
+    },
+    {
+      "from": "evt_COIL",
+      "to": "evt_PPL",
+      "relationship_type": "connected_to"
+    }
+  ]
+}
